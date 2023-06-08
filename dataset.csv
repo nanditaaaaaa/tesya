@@ -1,0 +1,1229 @@
+,Makanan,Karbohidrat,Protein,Sayur,Pengolahan,Kelas
+0,Sosis Bakar,Tidak ada,Ayam dan daging,Tidak,Panggang atau bakar,10
+1,Yakitori Ayam,Tidak ada,Ayam dan daging,Tidak,Panggang atau bakar,10
+2,Ayam Bakar Bumbu Rujak,Tidak ada,Ayam dan daging,Tidak,Panggang atau bakar,10
+3,Ayam Bakar Klaten,Tidak ada,Ayam dan daging,Tidak,Panggang atau bakar,10
+4,Ayam Goreng Cabe,Tidak ada,Ayam dan daging,Tidak,Panggang atau bakar,10
+5,Sate Ponorogo,Tidak ada,Ayam dan daging,Tidak,Panggang atau bakar,10
+6,Ayam Panggang Madu,Tidak ada,Ayam dan daging,Tidak,Panggang atau bakar,10
+7,Ayam Panggang Lada Hitam,Tidak ada,Ayam dan daging,Tidak,Panggang atau bakar,10
+8,Ayam Bekakak,Tidak ada,Ayam dan daging,Tidak,Panggang atau bakar,10
+9,Ayam Barbeque,Tidak ada,Ayam dan daging,Tidak,Panggang atau bakar,10
+10,Sate Maranggi,Tidak ada,Ayam dan daging,Tidak,Panggang atau bakar,10
+11,Sate Klopo,Tidak ada,Ayam dan daging,Tidak,Panggang atau bakar,10
+12,Sate Kambing,Tidak ada,Ayam dan daging,Tidak,Panggang atau bakar,10
+13,Ayam Bakar Padang,Tidak ada,Ayam dan daging,Tidak,Panggang atau bakar,10
+14,Ayam Bakar Bumbu Bali,Tidak ada,Ayam dan daging,Tidak,Panggang atau bakar,10
+15,Ayam Bakar Bumbu Kuning,Tidak ada,Ayam dan daging,Tidak,Panggang atau bakar,10
+16,Ayam Bakar Kecap,Tidak ada,Ayam dan daging,Tidak,Panggang atau bakar,10
+17,Beef Steak Tenderloin Blackpepper Sauce,Tidak ada,Ayam dan daging,Tidak,Panggang atau bakar,10
+18,Sate Taichan,Tidak ada,Ayam dan daging,Tidak,Panggang atau bakar,10
+19,Ayam Bakar Madu,Tidak ada,Ayam dan daging,Tidak,Panggang atau bakar,10
+20,Sate Komoh,Tidak ada,Ayam dan daging,Tidak,Panggang atau bakar,10
+21,Sate Ayam Madura,Tidak ada,Ayam dan daging,Tidak,Panggang atau bakar,10
+22,Iga Bakar Madu,Tidak ada,Ayam dan daging,Tidak,Panggang atau bakar,10
+23,Sate Daging Sapi,Tidak ada,Ayam dan daging,Tidak,Panggang atau bakar,10
+24,Ngohiong Ayam Udang,Tidak ada,Lainnya,Tidak,Goreng atau tumis,33
+25,Kekian Ayam Udang,Tidak ada,Lainnya,Tidak,Goreng atau tumis,33
+26,Ayam Telur Asin,Tidak ada,Lainnya,Tidak,Goreng atau tumis,33
+27,Oseng Tahu Udang,Tidak ada,Lainnya,Tidak,Goreng atau tumis,33
+28,Egg Chicken Roll,Tidak ada,Lainnya,Tidak,Goreng atau tumis,33
+29,Itiak Lado Mudo (Bebek Cabe Ijo),Tidak ada,Lainnya,Tidak,Goreng atau tumis,33
+30,Ekkado,Tidak ada,Lainnya,Tidak,Goreng atau tumis,33
+31,Bebek Madura,Tidak ada,Lainnya,Tidak,Goreng atau tumis,33
+32,Bebek Goreng Surabaya,Tidak ada,Lainnya,Tidak,Goreng atau tumis,33
+33,Jengkol Balado,Tidak ada,Lainnya,Tidak,Goreng atau tumis,33
+34,Tumis Jamur Kancing,Tidak ada,Lainnya,Tidak,Goreng atau tumis,33
+35,Rawon Ayam,Tidak ada,Ayam dan daging,Ya,Rebus atau kukus,15
+36,Sop Buntut Bakar,Tidak ada,Ayam dan daging,Ya,Rebus atau kukus,15
+37,Tengkleng,Tidak ada,Ayam dan daging,Ya,Rebus atau kukus,15
+38,Sop Ceker,Tidak ada,Ayam dan daging,Ya,Rebus atau kukus,15
+39,Ayam Kemangi,Tidak ada,Ayam dan daging,Ya,Rebus atau kukus,15
+40,Pindang Tulang Iga,Tidak ada,Ayam dan daging,Ya,Rebus atau kukus,15
+41,Brongkos,Tidak ada,Ayam dan daging,Ya,Rebus atau kukus,15
+42,Bistik Daging Sapi,Tidak ada,Ayam dan daging,Ya,Rebus atau kukus,15
+43,Rawon,Tidak ada,Ayam dan daging,Ya,Rebus atau kukus,15
+44,Asem-Asem Daging,Tidak ada,Ayam dan daging,Ya,Rebus atau kukus,15
+45,Ayam Woku,Tidak ada,Ayam dan daging,Ya,Rebus atau kukus,15
+46,Tongseng Kambing,Tidak ada,Ayam dan daging,Ya,Rebus atau kukus,15
+47,Ayam Tuturuga,Tidak ada,Ayam dan daging,Ya,Rebus atau kukus,15
+48,Garang Asem Ayam,Tidak ada,Ayam dan daging,Ya,Rebus atau kukus,15
+49,Sup Merah,Tidak ada,Ayam dan daging,Ya,Rebus atau kukus,15
+50,Tom Yam Ayam,Tidak ada,Ayam dan daging,Ya,Rebus atau kukus,15
+51,Shabu Shabu,Tidak ada,Ayam dan daging,Ya,Rebus atau kukus,15
+52,Coto Makassar,Tidak ada,Ayam dan daging,Ya,Rebus atau kukus,15
+53,Sup Asparagus Krim Ayam,Tidak ada,Ayam dan daging,Ya,Rebus atau kukus,15
+54,Usus Goreng Crispy,Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+55,Ceker Rica Rica,Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+56,Ceker Kecap Pedas,Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+57,Ayam Suwir Kecap,Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+58,Daging Goreng,Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+59,Ayam Goreng Madu,Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+60,Ayam Geprek Keju,Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+61,Tangsuyuk Sapi,Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+62,Korean Spicy Chicken,Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+63,Lidah Sapi Cabe hijau,Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+64,Ayam Goreng Sasando,Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+65,Ayam Saus Inggris,Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+66,Ayam Tangkap,Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+67,Ayam Goreng Bawang,Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+68,Ayam Goreng Terasi,Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+69,Ayam Suwir Cabe Ijo,Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+70,Dendeng Lambok,Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+71,Ayam Jerit,Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+72,Iga Penyet,Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+73,Sambal Goreng Hati Sapi,Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+74,Ayam Pelalah,Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+75,Krengsengan Daging Sapi,Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+76,Ayam Saus Lemon,Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+77,Ayam Gepuk,Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+78,Ayam Goreng KFC Krispi,Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+79,Ayam Gongso,Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+80,Spicy Chicken Wings (Richeese),Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+81,Paru Goreng,Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+82,Bebek Kaleyo,Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+83,Ayam Wijen Saus Mentega,Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+84,Babat Gongso,Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+85,Ayam Kecap Goreng Mentega,Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+86,Sambal Goreng Krecek,Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+87,Ayam Pok Pok,Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+88,Ayam Geprek (Tanpa Tepung),Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+89,Bulgogi,Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+90,Ayam Penyet,Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+91,Ayam Goreng Tulang Lunak,Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+92,Ayam Goreng Kalasan,Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+93,Ayam Lada Hitam,Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+94,Abon Sapi,Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+95,Ayam Nasu Palekko,Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+96,Ayam Taliwang,Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+97,Sambal Goreng Ati Ampela,Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+98,Ayam Kremes,Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+99,Usus Ayam Tumis Pedas Manis,Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+100,Ayam Kungpao,Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+101,Steak Ayam Brown Sauce ( Chicken Steak ),Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+102,Ayam Balado,Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+103,Ayam Saus Tiram,Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+104,Ayam Popcorn,Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+105,Kikil Sapi Oseng Cabe Hijau,Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+106,Ayam Rica-Rica,Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+107,Ayam Kecap Padang,Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+108,Ayam Cabe Ijo,Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+109,Ayam Goreng Lengkuas,Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+110,Ayam Suwir Pedas Bali,Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+111,Ayam Goreng Kecap,Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+112,Beef Yakiniku,Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+113,Ayam Serundeng,Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+114,Krengsengan Kambing,Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+115,Ayam Goreng Padang,Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+116,Ayam Asam Manis,Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+117,Serundeng Daging,Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+118,Oseng Mercon,Tidak ada,Ayam dan daging,Tidak,Goreng atau tumis,9
+119,Burung Puyuh Bakar,Tidak ada,Lainnya,Tidak,Panggang atau bakar,34
+120,Dangkot Ayam,Tidak ada,Ayam dan daging,Tidak,Rebus atau kukus,11
+121,Ayam Bumbu Merah,Tidak ada,Ayam dan daging,Tidak,Rebus atau kukus,11
+122,Ayam Rujak Tanpa Santan,Tidak ada,Ayam dan daging,Tidak,Rebus atau kukus,11
+123,Asam Pedas (Padeh) Daging,Tidak ada,Ayam dan daging,Tidak,Rebus atau kukus,11
+124,Tongseng Kambing Tanpa Santan,Tidak ada,Ayam dan daging,Tidak,Rebus atau kukus,11
+125,Saksang Ayam,Tidak ada,Ayam dan daging,Tidak,Rebus atau kukus,11
+126,Ayam Kecap,Tidak ada,Ayam dan daging,Tidak,Rebus atau kukus,11
+127,Dumpling Ayam Kukus,Tidak ada,Ayam dan daging,Tidak,Rebus atau kukus,11
+128,Ayam Kuah Hitam,Tidak ada,Ayam dan daging,Tidak,Rebus atau kukus,11
+129,Ayam Kecap Kuah,Tidak ada,Ayam dan daging,Tidak,Rebus atau kukus,11
+130,Ayam Kecap Pedas,Tidak ada,Ayam dan daging,Tidak,Rebus atau kukus,11
+131,Ayam Bumbu Rajang (Khas Lombok),Tidak ada,Ayam dan daging,Tidak,Rebus atau kukus,11
+132,Tum Ayam,Tidak ada,Ayam dan daging,Tidak,Rebus atau kukus,11
+133,Ayam Kecap Jahe,Tidak ada,Ayam dan daging,Tidak,Rebus atau kukus,11
+134,Daging Bumbu Bali,Tidak ada,Ayam dan daging,Tidak,Rebus atau kukus,11
+135,Ayam Kare Jawa,Tidak ada,Ayam dan daging,Tidak,Rebus atau kukus,11
+136,Kalio Daging Sapi,Tidak ada,Ayam dan daging,Tidak,Rebus atau kukus,11
+137,Ayam Rebus Bumbu,Tidak ada,Ayam dan daging,Tidak,Rebus atau kukus,11
+138,Pallu Basa,Tidak ada,Ayam dan daging,Tidak,Rebus atau kukus,11
+139,Kalio Ayam,Tidak ada,Ayam dan daging,Tidak,Rebus atau kukus,11
+140,Gadon Daging,Tidak ada,Ayam dan daging,Tidak,Rebus atau kukus,11
+141,Gulai Iga Sapi,Tidak ada,Ayam dan daging,Tidak,Rebus atau kukus,11
+142,Ayam Lodho,Tidak ada,Ayam dan daging,Tidak,Rebus atau kukus,11
+143,Pindang Daging Kudus,Tidak ada,Ayam dan daging,Tidak,Rebus atau kukus,11
+144,Galantin Ayam,Tidak ada,Ayam dan daging,Tidak,Rebus atau kukus,11
+145,Gulai Ayam Padang,Tidak ada,Ayam dan daging,Tidak,Rebus atau kukus,11
+146,Rendang Ayam,Tidak ada,Ayam dan daging,Tidak,Rebus atau kukus,11
+147,Semur Hati Ampela Ayam,Tidak ada,Ayam dan daging,Tidak,Rebus atau kukus,11
+148,Opor Ayam Putih,Tidak ada,Ayam dan daging,Tidak,Rebus atau kukus,11
+149,Galantin Daging Sapi,Tidak ada,Ayam dan daging,Tidak,Rebus atau kukus,11
+150,Rendang Daging Sapi Padang,Tidak ada,Ayam dan daging,Tidak,Rebus atau kukus,11
+151,Chicken (Ayam) Teriyaki,Tidak ada,Ayam dan daging,Tidak,Rebus atau kukus,11
+152,Ayam Betutu,Tidak ada,Ayam dan daging,Tidak,Rebus atau kukus,11
+153,Beef Daging Teriyaki,Tidak ada,Ayam dan daging,Tidak,Rebus atau kukus,11
+154,Ayam Pop,Tidak ada,Ayam dan daging,Tidak,Rebus atau kukus,11
+155,Tongseng Ayam,Tidak ada,Ayam dan daging,Tidak,Rebus atau kukus,11
+156,Semur Daging Sapi,Tidak ada,Ayam dan daging,Tidak,Rebus atau kukus,11
+157,Tongseng Sapi,Tidak ada,Ayam dan daging,Tidak,Rebus atau kukus,11
+158,Rendang Daging Sapi (Asli Minang),Tidak ada,Ayam dan daging,Tidak,Rebus atau kukus,11
+159,Gulai Kambing,Tidak ada,Ayam dan daging,Tidak,Rebus atau kukus,11
+160,Pepes Ayam,Tidak ada,Ayam dan daging,Tidak,Rebus atau kukus,11
+161,Ceker Ayam Pedas,Tidak ada,Ayam dan daging,Tidak,Rebus atau kukus,11
+162,Semur Ayam,Tidak ada,Ayam dan daging,Tidak,Rebus atau kukus,11
+163,Rabeg Daging Sapi,Tidak ada,Ayam dan daging,Tidak,Rebus atau kukus,11
+164,Daging Malbi Semur,Tidak ada,Ayam dan daging,Tidak,Rebus atau kukus,11
+165,Dendeng Ragi,Tidak ada,Ayam dan daging,Tidak,Rebus atau kukus,11
+166,Ayam Bumbu Rujak Kuah,Tidak ada,Ayam dan daging,Tidak,Rebus atau kukus,11
+167,Ceker Ayam Mercon,Tidak ada,Ayam dan daging,Tidak,Rebus atau kukus,11
+168,Dendeng Batokok,Tidak ada,Ayam dan daging,Tidak,Rebus atau kukus,11
+169,Gulai Kikil (Tunjang),Tidak ada,Ayam dan daging,Tidak,Rebus atau kukus,11
+170,Opor Ayam Kuning,Tidak ada,Ayam dan daging,Tidak,Rebus atau kukus,11
+171,Semur Bola Bola Daging,Tidak ada,Ayam dan daging,Tidak,Rebus atau kukus,11
+172,Kari Ayam,Tidak ada,Ayam dan daging,Tidak,Rebus atau kukus,11
+173,Rendang Bola Bola Daging,Tidak ada,Ayam dan daging,Tidak,Rebus atau kukus,11
+174,Sayur Krecek,Tidak ada,Ayam dan daging,Tidak,Rebus atau kukus,11
+175,Sop Ayam Suwir,Tidak ada,Ayam dan daging,Tidak,Rebus atau kukus,11
+176,Sop Konro,Tidak ada,Ayam dan daging,Tidak,Rebus atau kukus,11
+177,Sop Buntut,Tidak ada,Ayam dan daging,Tidak,Rebus atau kukus,11
+178,Sup Kacang Merah Daging Sapi,Tidak ada,Ayam dan daging,Tidak,Rebus atau kukus,11
+179,Sop Iga Sapi,Tidak ada,Ayam dan daging,Tidak,Rebus atau kukus,11
+180,Sop Ayam Kampung,Tidak ada,Ayam dan daging,Tidak,Rebus atau kukus,11
+181,Sop Kambing,Tidak ada,Ayam dan daging,Tidak,Rebus atau kukus,11
+182,Pempek Ayam,"Tepung, Mie, dan Pasta",Ayam dan daging,Tidak,Rebus atau kukus,91
+183,Bakso Ayam,"Tepung, Mie, dan Pasta",Ayam dan daging,Tidak,Rebus atau kukus,91
+184,Jajangmyeon,"Tepung, Mie, dan Pasta",Ayam dan daging,Tidak,Rebus atau kukus,91
+185,Mie Tulang Bandung,"Tepung, Mie, dan Pasta",Ayam dan daging,Tidak,Rebus atau kukus,91
+186,Ramen,"Tepung, Mie, dan Pasta",Ayam dan daging,Tidak,Rebus atau kukus,91
+187,Mie Korea Ramyeon,"Tepung, Mie, dan Pasta",Ayam dan daging,Tidak,Rebus atau kukus,91
+188,Mie Pangsit,"Tepung, Mie, dan Pasta",Ayam dan daging,Tidak,Rebus atau kukus,91
+189,Bakso Mercon,"Tepung, Mie, dan Pasta",Ayam dan daging,Tidak,Rebus atau kukus,91
+190,Bakso Aci Tulang Rangu,"Tepung, Mie, dan Pasta",Ayam dan daging,Tidak,Rebus atau kukus,91
+191,Bakso Sapi (Pentol Daging Asli),"Tepung, Mie, dan Pasta",Ayam dan daging,Tidak,Rebus atau kukus,91
+192,Bakso Solo,"Tepung, Mie, dan Pasta",Ayam dan daging,Tidak,Rebus atau kukus,91
+193,Soto Babat,"Tepung, Mie, dan Pasta",Ayam dan daging,Tidak,Rebus atau kukus,91
+194,Cream Soup Ayam,"Tepung, Mie, dan Pasta",Ayam dan daging,Tidak,Rebus atau kukus,91
+195,Soto Tangkar,"Tepung, Mie, dan Pasta",Ayam dan daging,Tidak,Rebus atau kukus,91
+196,Bakso Malang,"Tepung, Mie, dan Pasta",Ayam dan daging,Tidak,Rebus atau kukus,91
+197,Bakso Urat,"Tepung, Mie, dan Pasta",Ayam dan daging,Tidak,Rebus atau kukus,91
+198,Soto Ayam Santan Medan,"Tepung, Mie, dan Pasta",Ayam dan daging,Tidak,Rebus atau kukus,91
+199,Soto Mie Bogor,"Tepung, Mie, dan Pasta",Ayam dan daging,Tidak,Rebus atau kukus,91
+200,Seblak Basah Bandung,"Tepung, Mie, dan Pasta",Ayam dan daging,Tidak,Rebus atau kukus,91
+201,Bakso Aci,"Tepung, Mie, dan Pasta",Ayam dan daging,Tidak,Rebus atau kukus,91
+202,Cilok Isi Kuah,"Tepung, Mie, dan Pasta",Ayam dan daging,Tidak,Rebus atau kukus,91
+203,Ngohiong Ayam,"Tepung, Mie, dan Pasta",Ayam dan daging,Tidak,Goreng atau tumis,89
+204,Ayam Geprek Jogja,"Tepung, Mie, dan Pasta",Ayam dan daging,Tidak,Goreng atau tumis,89
+205,Ayam Karage,"Tepung, Mie, dan Pasta",Ayam dan daging,Tidak,Goreng atau tumis,89
+206,Nugget Ayam,"Tepung, Mie, dan Pasta",Ayam dan daging,Tidak,Goreng atau tumis,89
+207,Ayam Goreng Tepung,"Tepung, Mie, dan Pasta",Ayam dan daging,Tidak,Goreng atau tumis,89
+208,Chicken Katsu,"Tepung, Mie, dan Pasta",Ayam dan daging,Tidak,Goreng atau tumis,89
+209,Sempol Ayam,"Tepung, Mie, dan Pasta",Ayam dan daging,Tidak,Goreng atau tumis,89
+210,Mie Tiaw Goreng Ayam,"Tepung, Mie, dan Pasta",Ayam dan daging,Tidak,Goreng atau tumis,89
+211,Pangsit Goreng,"Tepung, Mie, dan Pasta",Ayam dan daging,Tidak,Goreng atau tumis,89
+212,Sosis Solo,"Tepung, Mie, dan Pasta",Ayam dan daging,Tidak,Goreng atau tumis,89
+213,Roti Isi Daging,"Tepung, Mie, dan Pasta",Ayam dan daging,Tidak,Goreng atau tumis,89
+214,Cibay Pedas,"Tepung, Mie, dan Pasta",Ayam dan daging,Tidak,Goreng atau tumis,89
+215,Samosa,"Tepung, Mie, dan Pasta",Ayam dan daging,Tidak,Goreng atau tumis,89
+216,Rica Rica Bebek,Tidak ada,Lainnya,Tidak,Rebus atau kukus,35
+217,Tim Telur Daging,Tidak ada,Lainnya,Tidak,Rebus atau kukus,35
+218,Terik Daging Tahu Tempe,Tidak ada,Lainnya,Tidak,Rebus atau kukus,35
+219,Gulai Cumi Isi Telur,Tidak ada,Lainnya,Tidak,Rebus atau kukus,35
+220,Semur Jengkol Betawi,Tidak ada,Lainnya,Tidak,Rebus atau kukus,35
+221,Rendang Jengkol,Tidak ada,Lainnya,Tidak,Rebus atau kukus,35
+222,Puding Chocolatos,Tidak ada,Lainnya,Tidak,Rebus atau kukus,35
+223,Panna Cotta Strawberry,Tidak ada,Lainnya,Tidak,Rebus atau kukus,35
+224,Puding Alpukat,Tidak ada,Lainnya,Tidak,Rebus atau kukus,35
+225,Puding Mozaik,Tidak ada,Lainnya,Tidak,Rebus atau kukus,35
+226,Puding Coklat Susu,Tidak ada,Lainnya,Tidak,Rebus atau kukus,35
+227,Puding Buah Naga,Tidak ada,Lainnya,Tidak,Rebus atau kukus,35
+228,Puding Kelapa Muda,Tidak ada,Lainnya,Tidak,Rebus atau kukus,35
+229,Puding Pepaya,Tidak ada,Lainnya,Tidak,Rebus atau kukus,35
+230,Silky Puding,Tidak ada,Lainnya,Tidak,Rebus atau kukus,35
+231,Puding Oreo,Tidak ada,Lainnya,Tidak,Rebus atau kukus,35
+232,Puding Strawberry,Tidak ada,Lainnya,Tidak,Rebus atau kukus,35
+233,Puding Sutra,Tidak ada,Lainnya,Tidak,Rebus atau kukus,35
+234,Puding Casablanca Pandan Coklat,Tidak ada,Lainnya,Tidak,Rebus atau kukus,35
+235,Puding Karamel (Caramel Custard Pudding),Tidak ada,Lainnya,Tidak,Rebus atau kukus,35
+236,Puding Regal Kopi,Tidak ada,Lainnya,Tidak,Rebus atau kukus,35
+237,Puding Labu,Tidak ada,Lainnya,Tidak,Rebus atau kukus,35
+238,Puding Susu,Tidak ada,Lainnya,Tidak,Rebus atau kukus,35
+239,Chicken Basil Thai,Tidak ada,Ayam dan daging,Ya,Goreng atau tumis,13
+240,Tumis Ayam Cincang Nanas Paprika,Tidak ada,Ayam dan daging,Ya,Goreng atau tumis,13
+241,Sayap Ayam Isi,Tidak ada,Ayam dan daging,Ya,Goreng atau tumis,13
+242,Tumis Daging Sapi Cabe Ijo,Tidak ada,Ayam dan daging,Ya,Goreng atau tumis,13
+243,Tumis Buncis Daging Giling,Tidak ada,Ayam dan daging,Ya,Goreng atau tumis,13
+244,Ayam Sambal Matah,Tidak ada,Ayam dan daging,Ya,Goreng atau tumis,13
+245,Daging Sapi Paprika Lada Hitam,Tidak ada,Ayam dan daging,Ya,Goreng atau tumis,13
+246,Nasi Jinggo,Beras dan olahannya,Lainnya,Tidak,Lainnya,72
+247,Nasi Tomat,Beras dan olahannya,Lainnya,Tidak,Lainnya,72
+248,Nasi Kapau,Beras dan olahannya,Lainnya,Tidak,Lainnya,72
+249,Loco Moco,Beras dan olahannya,Lainnya,Tidak,Lainnya,72
+250,Rice Ball Minion,Beras dan olahannya,Lainnya,Tidak,Lainnya,72
+251,Nasi Uduk Betawi Komplit,Beras dan olahannya,Lainnya,Tidak,Lainnya,72
+252,Nasi Timbel Komplit,Beras dan olahannya,Lainnya,Tidak,Lainnya,72
+253,Bubur Ayam Quaker Oat,Lainnya,Ayam dan daging,Tidak,Rebus atau kukus,131
+254,Kari Kambing,Lainnya,Ayam dan daging,Tidak,Rebus atau kukus,131
+255,Soto Kuning Bogor,Lainnya,Ayam dan daging,Tidak,Rebus atau kukus,131
+256,MPASI 6 Bulan (Bubur Kabocha),Lainnya,Ayam dan daging,Tidak,Rebus atau kukus,131
+257,Ayam Goreng Oatmeal,Lainnya,Ayam dan daging,Tidak,Goreng atau tumis,129
+258,Gore Gore,Lainnya,Ayam dan daging,Tidak,Goreng atau tumis,129
+259,Kentang Daging Cincang,Lainnya,Ayam dan daging,Tidak,Goreng atau tumis,129
+260,Perkedel Daging,Lainnya,Ayam dan daging,Tidak,Goreng atau tumis,129
+261,Hotang (Hotdog Kentang) / Sostang (Sosis Kentang),Lainnya,Ayam dan daging,Tidak,Goreng atau tumis,129
+262,Timus Ubi,Lainnya,Ayam dan daging,Tidak,Goreng atau tumis,129
+263,Burrito Ayam,"Tepung, Mie, dan Pasta",Ayam dan daging,Ya,Panggang atau bakar,94
+264,Hamburger Daging,"Tepung, Mie, dan Pasta",Ayam dan daging,Ya,Panggang atau bakar,94
+265,Pizza Daging Sapi,"Tepung, Mie, dan Pasta",Ayam dan daging,Ya,Panggang atau bakar,94
+266,Bakso Keju,"Tepung, Mie, dan Pasta",Lainnya,Ya,Rebus atau kukus,119
+267,Gyoza,"Tepung, Mie, dan Pasta",Lainnya,Ya,Rebus atau kukus,119
+268,Siomay Ayam Udang Dimsum,"Tepung, Mie, dan Pasta",Lainnya,Ya,Rebus atau kukus,119
+269,Soun Kuah,"Tepung, Mie, dan Pasta",Lainnya,Ya,Rebus atau kukus,119
+270,Bihun Kuah,"Tepung, Mie, dan Pasta",Lainnya,Ya,Rebus atau kukus,119
+271,Kwetiau Kuah,"Tepung, Mie, dan Pasta",Lainnya,Ya,Rebus atau kukus,119
+272,Ayam Bakar Lumajang,Tidak ada,Ayam dan daging,Ya,Panggang atau bakar,14
+273,Ayam Panggang Pecel,Tidak ada,Ayam dan daging,Ya,Panggang atau bakar,14
+274,Sepat Ayam,Tidak ada,Ayam dan daging,Ya,Panggang atau bakar,14
+275,Nasi Briyani Ayam,Beras dan olahannya,Ayam dan daging,Ya,Rebus atau kukus,55
+276,Rujak Cingur,Beras dan olahannya,Ayam dan daging,Ya,Rebus atau kukus,55
+277,Ayam Kodok,Tidak ada,Ayam dan daging,Tidak,Lainnya,8
+278,Dendeng Balado,Tidak ada,Ayam dan daging,Tidak,Lainnya,8
+279,Empal Gepuk,Tidak ada,Ayam dan daging,Tidak,Lainnya,8
+280,Ayam Hainan,Tidak ada,Ayam dan daging,Tidak,Lainnya,8
+281,Tahu Campur,Beras dan olahannya,"Tahu, tempe, dan telur",Ya,Rebus atau kukus,71
+282,Tahu Lontong,Beras dan olahannya,"Tahu, tempe, dan telur",Ya,Rebus atau kukus,71
+283,Kupat Tahu Magelang,Beras dan olahannya,"Tahu, tempe, dan telur",Ya,Rebus atau kukus,71
+284,Lontong Sayur Padang,Beras dan olahannya,"Tahu, tempe, dan telur",Ya,Rebus atau kukus,71
+285,Nasi Bebek,Beras dan olahannya,Lainnya,Ya,Goreng atau tumis,77
+286,Siomay Udang Kuah Kaldu,Lainnya,Ikan dan Seafood,Tidak,Rebus atau kukus,139
+287,Batagor Kuah,"Tepung, Mie, dan Pasta",Lainnya,Ya,Goreng atau tumis,117
+288,Capcay Goreng Jawa,"Tepung, Mie, dan Pasta",Lainnya,Ya,Goreng atau tumis,117
+289,Nugget Sayur,"Tepung, Mie, dan Pasta",Lainnya,Ya,Goreng atau tumis,117
+290,Soun Goreng,"Tepung, Mie, dan Pasta",Lainnya,Ya,Goreng atau tumis,117
+291,Bihun Goreng Isi Special,"Tepung, Mie, dan Pasta",Lainnya,Ya,Goreng atau tumis,117
+292,Sate Padang,Beras dan olahannya,Ayam dan daging,Tidak,Panggang atau bakar,50
+293,Nasi Bakar Ati Ampela,Beras dan olahannya,Ayam dan daging,Tidak,Panggang atau bakar,50
+294,Nasi Bakar Ayam Suwir,Beras dan olahannya,Ayam dan daging,Tidak,Panggang atau bakar,50
+295,Lemper Ayam Bakar,Beras dan olahannya,Ayam dan daging,Tidak,Panggang atau bakar,50
+296,Bistik Lidah Sapi,Lainnya,Ayam dan daging,Ya,Rebus atau kukus,135
+297,Bistik Ayam,Lainnya,Ayam dan daging,Ya,Rebus atau kukus,135
+298,Sop Saudara,Lainnya,Ayam dan daging,Ya,Rebus atau kukus,135
+299,Empal Gentong,Lainnya,Ayam dan daging,Ya,Rebus atau kukus,135
+300,Sayur Sop Ayam,Lainnya,Ayam dan daging,Ya,Rebus atau kukus,135
+301,Soto Betawi,Lainnya,Ayam dan daging,Ya,Rebus atau kukus,135
+302,Sop Manten,Lainnya,Ayam dan daging,Ya,Rebus atau kukus,135
+303,Kebab,Lainnya,Ayam dan daging,Ya,Panggang atau bakar,134
+304,Mie Kangkung Ayam,"Tepung, Mie, dan Pasta",Ayam dan daging,Ya,Rebus atau kukus,95
+305,Dim Sum Ceker Ayam,"Tepung, Mie, dan Pasta",Ayam dan daging,Ya,Rebus atau kukus,95
+306,Seblak Ceker,"Tepung, Mie, dan Pasta",Ayam dan daging,Ya,Rebus atau kukus,95
+307,Mie Sop Medan,"Tepung, Mie, dan Pasta",Ayam dan daging,Ya,Rebus atau kukus,95
+308,Beef Pho Vietnam,"Tepung, Mie, dan Pasta",Ayam dan daging,Ya,Rebus atau kukus,95
+309,Soto Kuah,"Tepung, Mie, dan Pasta",Ayam dan daging,Ya,Rebus atau kukus,95
+310,Soto Ambengan,"Tepung, Mie, dan Pasta",Ayam dan daging,Ya,Rebus atau kukus,95
+311,Bakso Lo Hoa,"Tepung, Mie, dan Pasta",Ayam dan daging,Ya,Rebus atau kukus,95
+312,Soto Ayam Bening,"Tepung, Mie, dan Pasta",Ayam dan daging,Ya,Rebus atau kukus,95
+313,Soto Ceker,"Tepung, Mie, dan Pasta",Ayam dan daging,Ya,Rebus atau kukus,95
+314,Tauto Pekalongan,"Tepung, Mie, dan Pasta",Ayam dan daging,Ya,Rebus atau kukus,95
+315,Soto Banjar,"Tepung, Mie, dan Pasta",Ayam dan daging,Ya,Rebus atau kukus,95
+316,Sop Bakso,"Tepung, Mie, dan Pasta",Ayam dan daging,Ya,Rebus atau kukus,95
+317,Soto Padang,"Tepung, Mie, dan Pasta",Ayam dan daging,Ya,Rebus atau kukus,95
+318,Soto Kudus,"Tepung, Mie, dan Pasta",Ayam dan daging,Ya,Rebus atau kukus,95
+319,Soto Ayam Kuning Lamongan,"Tepung, Mie, dan Pasta",Ayam dan daging,Ya,Rebus atau kukus,95
+320,Sroto Banyumas,"Tepung, Mie, dan Pasta",Ayam dan daging,Ya,Rebus atau kukus,95
+321,Soto Bandung,"Tepung, Mie, dan Pasta",Ayam dan daging,Ya,Rebus atau kukus,95
+322,Sempol Ikan Tenggiri,"Tepung, Mie, dan Pasta",Ikan dan Seafood,Tidak,Goreng atau tumis,97
+323,Nugget Ikan,"Tepung, Mie, dan Pasta",Ikan dan Seafood,Tidak,Goreng atau tumis,97
+324,Otak-Otak Goreng,"Tepung, Mie, dan Pasta",Ikan dan Seafood,Tidak,Goreng atau tumis,97
+325,Cumi Goreng Tepung (Calamari),"Tepung, Mie, dan Pasta",Ikan dan Seafood,Tidak,Goreng atau tumis,97
+326,Udang Goreng Tepung (Ebi Furai),"Tepung, Mie, dan Pasta",Ikan dan Seafood,Tidak,Goreng atau tumis,97
+327,Amplang Krupuk Ikan,"Tepung, Mie, dan Pasta",Ikan dan Seafood,Tidak,Goreng atau tumis,97
+328,Mie Goreng Aceh,"Tepung, Mie, dan Pasta",Ikan dan Seafood,Tidak,Goreng atau tumis,97
+329,Takoyaki,"Tepung, Mie, dan Pasta",Ikan dan Seafood,Tidak,Goreng atau tumis,97
+330,Panada,"Tepung, Mie, dan Pasta",Ikan dan Seafood,Tidak,Goreng atau tumis,97
+331,Batagor Bandung,"Tepung, Mie, dan Pasta",Ikan dan Seafood,Tidak,Goreng atau tumis,97
+332,Sala Lauak,"Tepung, Mie, dan Pasta",Ikan dan Seafood,Tidak,Goreng atau tumis,97
+333,Peyek Udang,"Tepung, Mie, dan Pasta",Ikan dan Seafood,Tidak,Goreng atau tumis,97
+334,Kerupuk Udang,"Tepung, Mie, dan Pasta",Ikan dan Seafood,Tidak,Goreng atau tumis,97
+335,Pecel Ayam,Beras dan olahannya,Ayam dan daging,Ya,Goreng atau tumis,53
+336,Ayam Nanking,"Tepung, Mie, dan Pasta",Ayam dan daging,Ya,Goreng atau tumis,93
+337,Ayam Kuluyuk,"Tepung, Mie, dan Pasta",Ayam dan daging,Ya,Goreng atau tumis,93
+338,Chicken Cordon Bleu,"Tepung, Mie, dan Pasta",Ayam dan daging,Ya,Goreng atau tumis,93
+339,Pad Thai,"Tepung, Mie, dan Pasta",Ayam dan daging,Ya,Goreng atau tumis,93
+340,Roti Tawar Goreng Isi Ragout,"Tepung, Mie, dan Pasta",Ayam dan daging,Ya,Goreng atau tumis,93
+341,Karipap (Curry Puff),"Tepung, Mie, dan Pasta",Ayam dan daging,Ya,Goreng atau tumis,93
+342,Pastel Isi Ayam,"Tepung, Mie, dan Pasta",Ayam dan daging,Ya,Goreng atau tumis,93
+343,Misoa Goreng,"Tepung, Mie, dan Pasta",Ayam dan daging,Ya,Goreng atau tumis,93
+344,Rolade Daging Sapi,"Tepung, Mie, dan Pasta",Lainnya,Tidak,Goreng atau tumis,113
+345,Bakso Udang Goreng,"Tepung, Mie, dan Pasta",Lainnya,Tidak,Goreng atau tumis,113
+346,Bola Bola Udang Roti,"Tepung, Mie, dan Pasta",Lainnya,Tidak,Goreng atau tumis,113
+347,Rolade Ikan,"Tepung, Mie, dan Pasta",Lainnya,Tidak,Goreng atau tumis,113
+348,Oncom Goreng,"Tepung, Mie, dan Pasta",Lainnya,Tidak,Goreng atau tumis,113
+349,Telur Gulung Sosis,"Tepung, Mie, dan Pasta",Lainnya,Tidak,Goreng atau tumis,113
+350,Jamur Krispi,"Tepung, Mie, dan Pasta",Lainnya,Tidak,Goreng atau tumis,113
+351,Jamur Enoki Krispi Goreng,"Tepung, Mie, dan Pasta",Lainnya,Tidak,Goreng atau tumis,113
+352,Bola Bola Mie,"Tepung, Mie, dan Pasta",Lainnya,Tidak,Goreng atau tumis,113
+353,Mie Shirataki Goreng,"Tepung, Mie, dan Pasta",Lainnya,Tidak,Goreng atau tumis,113
+354,Indomie Goreng,"Tepung, Mie, dan Pasta",Lainnya,Tidak,Goreng atau tumis,113
+355,Mie Gomak Goreng,"Tepung, Mie, dan Pasta",Lainnya,Tidak,Goreng atau tumis,113
+356,Mie Goreng Jawa,"Tepung, Mie, dan Pasta",Lainnya,Tidak,Goreng atau tumis,113
+357,Makaroni Goreng,"Tepung, Mie, dan Pasta",Lainnya,Tidak,Goreng atau tumis,113
+358,Bakso Goreng (Basreng),"Tepung, Mie, dan Pasta",Lainnya,Tidak,Goreng atau tumis,113
+359,Pilus Cikur,"Tepung, Mie, dan Pasta",Lainnya,Tidak,Goreng atau tumis,113
+360,Oreo Goreng,"Tepung, Mie, dan Pasta",Lainnya,Tidak,Goreng atau tumis,113
+361,Sate Lilit,Tidak ada,Ikan dan Seafood,Tidak,Panggang atau bakar,18
+362,Ikan Mas Bakar,Tidak ada,Ikan dan Seafood,Tidak,Panggang atau bakar,18
+363,Salmon Mentai,Tidak ada,Ikan dan Seafood,Tidak,Panggang atau bakar,18
+364,Tuna Bakar Kecap,Tidak ada,Ikan dan Seafood,Tidak,Panggang atau bakar,18
+365,Sate Bandeng,Tidak ada,Ikan dan Seafood,Tidak,Panggang atau bakar,18
+366,Patin Bakar,Tidak ada,Ikan dan Seafood,Tidak,Panggang atau bakar,18
+367,Sate Kerang,Tidak ada,Ikan dan Seafood,Tidak,Panggang atau bakar,18
+368,Ikan Gurame Bakar Bumbu Bali,Tidak ada,Ikan dan Seafood,Tidak,Panggang atau bakar,18
+369,Bandeng Bakar,Tidak ada,Ikan dan Seafood,Tidak,Panggang atau bakar,18
+370,Sate Ikan Tongkol,Tidak ada,Ikan dan Seafood,Tidak,Panggang atau bakar,18
+371,Ikan Gurame Bakar Madu,Tidak ada,Ikan dan Seafood,Tidak,Panggang atau bakar,18
+372,Ikan Bawal Bakar,Tidak ada,Ikan dan Seafood,Tidak,Panggang atau bakar,18
+373,Lele Bakar,Tidak ada,Ikan dan Seafood,Tidak,Panggang atau bakar,18
+374,Udang Bakar Madu,Tidak ada,Ikan dan Seafood,Tidak,Panggang atau bakar,18
+375,Ikan Mujair Bakar Kecap,Tidak ada,Ikan dan Seafood,Tidak,Panggang atau bakar,18
+376,Cumi Bakar Kecap,Tidak ada,Ikan dan Seafood,Tidak,Panggang atau bakar,18
+377,Ikan Nila Bakar,Tidak ada,Ikan dan Seafood,Tidak,Panggang atau bakar,18
+378,Ikan Kembung Bakar Padang,Tidak ada,Ikan dan Seafood,Tidak,Panggang atau bakar,18
+379,Selat Solo,Lainnya,Lainnya,Ya,Lainnya,156
+380,Nasi Bakar Ayam Kemangi,Beras dan olahannya,Ayam dan daging,Ya,Panggang atau bakar,54
+381,Nasi Gandul,Beras dan olahannya,Ayam dan daging,Tidak,Lainnya,48
+382,Nasi Tim Bayi,Beras dan olahannya,Ayam dan daging,Tidak,Lainnya,48
+383,Bubur Ayam Cianjur,Beras dan olahannya,Ayam dan daging,Tidak,Lainnya,48
+384,Bubur Ayam Cirebon,Beras dan olahannya,Ayam dan daging,Tidak,Lainnya,48
+385,Nasi Kebuli Ayam,Beras dan olahannya,Ayam dan daging,Tidak,Lainnya,48
+386,Bubur Ayam,Beras dan olahannya,Ayam dan daging,Tidak,Lainnya,48
+387,Nasi Krawu,Beras dan olahannya,Ayam dan daging,Tidak,Lainnya,48
+388,Nasi Kebuli Kambing,Beras dan olahannya,Ayam dan daging,Tidak,Lainnya,48
+389,Nasi Tim Ayam,Beras dan olahannya,Ayam dan daging,Tidak,Lainnya,48
+390,Nasi Lemak Lengkap,Beras dan olahannya,Ayam dan daging,Tidak,Lainnya,48
+391,Koloke Ayam,"Tepung, Mie, dan Pasta",Ayam dan daging,Ya,Lainnya,92
+392,Cwie Mie Malang,"Tepung, Mie, dan Pasta",Ayam dan daging,Ya,Lainnya,92
+393,Mie Ayam Bangka,"Tepung, Mie, dan Pasta",Ayam dan daging,Ya,Lainnya,92
+394,Mie Ayam Solo,"Tepung, Mie, dan Pasta",Ayam dan daging,Ya,Lainnya,92
+395,Mie Yamin Bandung,"Tepung, Mie, dan Pasta",Ayam dan daging,Ya,Lainnya,92
+396,Soto Sokaraja,"Tepung, Mie, dan Pasta",Ayam dan daging,Ya,Lainnya,92
+397,Soto Pacitan,"Tepung, Mie, dan Pasta",Ayam dan daging,Ya,Lainnya,92
+398,Soto Sulung,"Tepung, Mie, dan Pasta",Ayam dan daging,Ya,Lainnya,92
+399,Zuppa Soup,"Tepung, Mie, dan Pasta",Ayam dan daging,Ya,Lainnya,92
+400,Roti John,"Tepung, Mie, dan Pasta",Ayam dan daging,Ya,Lainnya,92
+401,Ikan Mas Pindang,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+402,Ikan Bandeng Asam Manis,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+403,Ikan Bandeng Pepes,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+404,Ikan Bandeng Gulai,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+405,Pepes Ikan Tongkol,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+406,Gulai Ikan Mas,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+407,Gulai Ikan Nila,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+408,Pepes Ikan Nila,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+409,Ikan Selar Bumbu Kuning,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+410,Ikan Nila Asam Manis,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+411,Rajungan Saus Padang,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+412,Pindang Bumbu Sarden,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+413,Kerang Hijau Balado,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+414,Kerang Dara Saus Pedas,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+415,Udang Saus Padang,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+416,Gulai Ikan Tongkol,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+417,Udang Saus Inggris,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+418,Kerang Hijau Rebus,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+419,Tenggiri Lempah Kuning,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+420,Ikan Bawal Bumbu Kuning,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+421,Kakap Bumbu Kuning,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+422,Kepiting Saus Padang,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+423,Gulai Kakap,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+424,Pindang Serani,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+425,Pepes Udang,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+426,Ikan Salem Bumbu Sarden,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+427,Salmon Teriyaki,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+428,Kerang Dara Rebus,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+429,Ikan Tenggiri Bumbu Kuning,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+430,Pepes Peda,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+431,Gulai Aceh Ikan Tongkol,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+432,Tim Ikan Kakap,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+433,Ikan Tongkol Bumbu Kuning,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+434,Pindang Tongkol Balado,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+435,Asam Padeh Ikan Patin,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+436,Cumi Asam Manis Basah,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+437,Sarden Homemade,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+438,Ikan Asap Santan,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+439,Palumara Bandeng,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+440,Asam Padeh Ikan Tongkol,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+441,Semur Bandeng,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+442,Ikan Kakap Asam Manis,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+443,Pepes Ikan Mas Khas Sunda,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+444,Ikan Woku Belanga,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+445,Gulai Ikan Tenggiri,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+446,Udang Saos Tiram,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+447,Cumi Saus Padang,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+448,Pepes Ikan Kembung,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+449,Pepes Ikan Teri Basah,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+450,Pecak Gurame,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+451,Kepiting Saus Tiram,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+452,Cumi Saus Tiram,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+453,Kerang Hijau Saus Tiram Pedas,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+454,Asem Asem Bandeng,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+455,Mangut Lele,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+456,Ikan Patin Bumbu Kuning,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+457,Pindang Patin,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+458,Gulai Kepala Ikan Kakap,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+459,Kotokan Ikan Pe Lombok Ijo,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+460,Ikan Tongkol Bumbu Sarden,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+461,Pindang Bandeng,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+462,Kerang Saus Padang,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+463,Tumis Cumi Hitam,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+464,Pepes Telur Ikan,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+465,Botok,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+466,Sup Ikan Gabus,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+467,Sup Jagung Kepiting,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+468,Sup Ikan Gurame,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+469,Sup Ikan Kakap,Tidak ada,Ikan dan Seafood,Tidak,Rebus atau kukus,19
+470,Ikan Mujair Goreng,Tidak ada,Ikan dan Seafood,Tidak,Goreng atau tumis,17
+471,Ikan Bandeng Goreng,Tidak ada,Ikan dan Seafood,Tidak,Goreng atau tumis,17
+472,Ikan Mas Goreng,Tidak ada,Ikan dan Seafood,Tidak,Goreng atau tumis,17
+473,Ikan Nila Goreng,Tidak ada,Ikan dan Seafood,Tidak,Goreng atau tumis,17
+474,Belut Goreng,Tidak ada,Ikan dan Seafood,Tidak,Goreng atau tumis,17
+475,Tongkol Suwir Lombok Ijo,Tidak ada,Ikan dan Seafood,Tidak,Goreng atau tumis,17
+476,Rajungan Asam Manis,Tidak ada,Ikan dan Seafood,Tidak,Goreng atau tumis,17
+477,Tulang Jambal Cabe,Tidak ada,Ikan dan Seafood,Tidak,Goreng atau tumis,17
+478,Udang Cabe Garam,Tidak ada,Ikan dan Seafood,Tidak,Goreng atau tumis,17
+479,Lele Goreng Kremes,Tidak ada,Ikan dan Seafood,Tidak,Goreng atau tumis,17
+480,Ikan Salai Asap Balado,Tidak ada,Ikan dan Seafood,Tidak,Goreng atau tumis,17
+481,Sambal Tongkol,Tidak ada,Ikan dan Seafood,Tidak,Goreng atau tumis,17
+482,Gurame Bumbu Rujak,Tidak ada,Ikan dan Seafood,Tidak,Goreng atau tumis,17
+483,Cakalang Fufu Pampis,Tidak ada,Ikan dan Seafood,Tidak,Goreng atau tumis,17
+484,Sambal Goreng Kentang Udang,Tidak ada,Ikan dan Seafood,Tidak,Goreng atau tumis,17
+485,Cumi Goreng Mentega,Tidak ada,Ikan dan Seafood,Tidak,Goreng atau tumis,17
+486,Kerang Dara Asam Manis,Tidak ada,Ikan dan Seafood,Tidak,Goreng atau tumis,17
+487,Ikan Kerapu Asam Manis,Tidak ada,Ikan dan Seafood,Tidak,Goreng atau tumis,17
+488,Udang Goreng Mentega,Tidak ada,Ikan dan Seafood,Tidak,Goreng atau tumis,17
+489,Balado Ikan Kembung,Tidak ada,Ikan dan Seafood,Tidak,Goreng atau tumis,17
+490,Abon Ikan Tongkol,Tidak ada,Ikan dan Seafood,Tidak,Goreng atau tumis,17
+491,Udang Asam Manis,Tidak ada,Ikan dan Seafood,Tidak,Goreng atau tumis,17
+492,Abon Tuna,Tidak ada,Ikan dan Seafood,Tidak,Goreng atau tumis,17
+493,Ikan Gurame Asam Manis,Tidak ada,Ikan dan Seafood,Tidak,Goreng atau tumis,17
+494,Sambal Goreng Kering Teri Kacang,Tidak ada,Ikan dan Seafood,Tidak,Goreng atau tumis,17
+495,Ikan Kembung Goreng Bumbu Kuning,Tidak ada,Ikan dan Seafood,Tidak,Goreng atau tumis,17
+496,Cumi Telur Asin,Tidak ada,Ikan dan Seafood,Tidak,Goreng atau tumis,17
+497,Udang Telur Asin,Tidak ada,Ikan dan Seafood,Tidak,Goreng atau tumis,17
+498,Cumi Asin Cabe Hijau,Tidak ada,Ikan dan Seafood,Tidak,Goreng atau tumis,17
+499,Kepiting Lada Hitam,Tidak ada,Ikan dan Seafood,Tidak,Goreng atau tumis,17
+500,Sambal Teri,Tidak ada,Ikan dan Seafood,Tidak,Goreng atau tumis,17
+501,Sambal Tempoyak Udang,Tidak ada,Ikan dan Seafood,Tidak,Goreng atau tumis,17
+502,Ikan Mas Pesmol,Tidak ada,Ikan dan Seafood,Tidak,Lainnya,16
+503,Ikan Kembung Pesmol,Tidak ada,Ikan dan Seafood,Tidak,Lainnya,16
+504,Pesmol Ikan Nila,Tidak ada,Ikan dan Seafood,Tidak,Lainnya,16
+505,Ikan Bandeng Presto,Tidak ada,Ikan dan Seafood,Tidak,Lainnya,16
+506,Sambal Cumi,Tidak ada,Ikan dan Seafood,Tidak,Lainnya,16
+507,Sambal Tuk Tuk,Tidak ada,Ikan dan Seafood,Tidak,Lainnya,16
+508,Sambal Bada,Tidak ada,Ikan dan Seafood,Tidak,Lainnya,16
+509,Sambal Terasi,Tidak ada,Ikan dan Seafood,Tidak,Lainnya,16
+510,Pempek Panggang,"Tepung, Mie, dan Pasta",Ikan dan Seafood,Tidak,Panggang atau bakar,98
+511,Kemplang,"Tepung, Mie, dan Pasta",Ikan dan Seafood,Tidak,Panggang atau bakar,98
+512,Odeng Kuah Korea,"Tepung, Mie, dan Pasta",Ikan dan Seafood,Tidak,Rebus atau kukus,99
+513,Cilok Ikan,"Tepung, Mie, dan Pasta",Ikan dan Seafood,Tidak,Rebus atau kukus,99
+514,Jambal Roti Tumis,"Tepung, Mie, dan Pasta",Ikan dan Seafood,Tidak,Rebus atau kukus,99
+515,Siomay Ikan Bandung,"Tepung, Mie, dan Pasta",Ikan dan Seafood,Tidak,Rebus atau kukus,99
+516,Pempek Sutra,"Tepung, Mie, dan Pasta",Ikan dan Seafood,Tidak,Rebus atau kukus,99
+517,Pempek Lenggang,"Tepung, Mie, dan Pasta",Ikan dan Seafood,Tidak,Rebus atau kukus,99
+518,Pempek Kulit,"Tepung, Mie, dan Pasta",Ikan dan Seafood,Tidak,Rebus atau kukus,99
+519,Pempek Lenjer,"Tepung, Mie, dan Pasta",Ikan dan Seafood,Tidak,Rebus atau kukus,99
+520,Bakso Ikan,"Tepung, Mie, dan Pasta",Ikan dan Seafood,Tidak,Rebus atau kukus,99
+521,Bakso Udang Rebus,"Tepung, Mie, dan Pasta",Ikan dan Seafood,Tidak,Rebus atau kukus,99
+522,Pempek Kapal Selam,"Tepung, Mie, dan Pasta",Ikan dan Seafood,Tidak,Rebus atau kukus,99
+523,Pempek Adaan,"Tepung, Mie, dan Pasta",Ikan dan Seafood,Tidak,Rebus atau kukus,99
+524,Celimpungan,"Tepung, Mie, dan Pasta",Ikan dan Seafood,Tidak,Rebus atau kukus,99
+525,Mie Kuah Ikan Bangka,"Tepung, Mie, dan Pasta",Ikan dan Seafood,Tidak,Rebus atau kukus,99
+526,Mie Cakalang,"Tepung, Mie, dan Pasta",Ikan dan Seafood,Tidak,Rebus atau kukus,99
+527,Mie Aceh Kuah,"Tepung, Mie, dan Pasta",Ikan dan Seafood,Tidak,Rebus atau kukus,99
+528,Kari Bihun Medan,"Tepung, Mie, dan Pasta",Ikan dan Seafood,Tidak,Rebus atau kukus,99
+529,Bakso Cuanki Udang,"Tepung, Mie, dan Pasta",Ikan dan Seafood,Tidak,Rebus atau kukus,99
+530,Nasi Bakar Ikan Cakalang,Beras dan olahannya,Ikan dan Seafood,Ya,Panggang atau bakar,62
+531,Nasi Bakar Tuna Pedas,Beras dan olahannya,Ikan dan Seafood,Ya,Panggang atau bakar,62
+532,Sambal Cumi Pete Pedas,Tidak ada,Ikan dan Seafood,Ya,Goreng atau tumis,21
+533,Pecak Lele,Tidak ada,Ikan dan Seafood,Ya,Goreng atau tumis,21
+534,Sambal Udang Goreng Petai,Tidak ada,Ikan dan Seafood,Ya,Goreng atau tumis,21
+535,Pecel Lele,Tidak ada,Ikan dan Seafood,Ya,Goreng atau tumis,21
+536,Kepiting Asam Manis,Tidak ada,Ikan dan Seafood,Ya,Goreng atau tumis,21
+537,Tumis Buncis Udang,Tidak ada,Ikan dan Seafood,Ya,Goreng atau tumis,21
+538,Tumis Kembang Turi Teri,Tidak ada,Ikan dan Seafood,Ya,Goreng atau tumis,21
+539,Poke Bowl Salmon,Tidak ada,Ikan dan Seafood,Ya,Lainnya,20
+540,Ikan Gabus Pucung,Tidak ada,Ikan dan Seafood,Ya,Lainnya,20
+541,Otak Otak Bandeng,Lainnya,Ikan dan Seafood,Tidak,Lainnya,136
+542,Lumpia Vietnam,"Tepung, Mie, dan Pasta",Ikan dan Seafood,Ya,Lainnya,100
+543,Ifumie,"Tepung, Mie, dan Pasta",Ikan dan Seafood,Ya,Lainnya,100
+544,Hakau,"Tepung, Mie, dan Pasta",Ikan dan Seafood,Ya,Rebus atau kukus,103
+545,Kapurung,"Tepung, Mie, dan Pasta",Ikan dan Seafood,Ya,Rebus atau kukus,103
+546,Laksa Mie,"Tepung, Mie, dan Pasta",Ikan dan Seafood,Ya,Rebus atau kukus,103
+547,Misoa Kuah,"Tepung, Mie, dan Pasta",Ikan dan Seafood,Ya,Rebus atau kukus,103
+548,Tekwan,"Tepung, Mie, dan Pasta",Ikan dan Seafood,Ya,Rebus atau kukus,103
+549,Udang Pete Balado,Tidak ada,Ikan dan Seafood,Ya,Rebus atau kukus,23
+550,Pangek Ikan Nila,Tidak ada,Ikan dan Seafood,Ya,Rebus atau kukus,23
+551,Garang Asem Ikan,Tidak ada,Ikan dan Seafood,Ya,Rebus atau kukus,23
+552,Arsik Ikan Mas,Tidak ada,Ikan dan Seafood,Ya,Rebus atau kukus,23
+553,Ikan Bandeng Acar Kuning,Tidak ada,Ikan dan Seafood,Ya,Rebus atau kukus,23
+554,Sup Ikan Patin,Tidak ada,Ikan dan Seafood,Ya,Rebus atau kukus,23
+555,Sop Ikan Salmon,Tidak ada,Ikan dan Seafood,Ya,Rebus atau kukus,23
+556,Sop Ikan Nila Batam,Tidak ada,Ikan dan Seafood,Ya,Rebus atau kukus,23
+557,Tom Yam Seafood Udang Ikan,Tidak ada,Ikan dan Seafood,Ya,Rebus atau kukus,23
+558,Sup Udang,Tidak ada,Ikan dan Seafood,Ya,Rebus atau kukus,23
+559,Fish and Chips,Lainnya,Ikan dan Seafood,Tidak,Goreng atau tumis,137
+560,Steak Ikan Dori Panggang Saus Lemon,Lainnya,Ikan dan Seafood,Ya,Panggang atau bakar,142
+561,Fish Cake,Beras dan olahannya,Ikan dan Seafood,Tidak,Goreng atau tumis,57
+562,Nasi Goreng Seafood,Beras dan olahannya,Ikan dan Seafood,Tidak,Goreng atau tumis,57
+563,Nasi Goreng Teri,Beras dan olahannya,Ikan dan Seafood,Tidak,Goreng atau tumis,57
+564,Gulai Telur Tahu,Tidak ada,"Tahu, tempe, dan telur",Tidak,Rebus atau kukus,27
+565,Tempe Teriyaki,Tidak ada,"Tahu, tempe, dan telur",Tidak,Rebus atau kukus,27
+566,Telur Bacem,Tidak ada,"Tahu, tempe, dan telur",Tidak,Rebus atau kukus,27
+567,Opor Telur,Tidak ada,"Tahu, tempe, dan telur",Tidak,Rebus atau kukus,27
+568,Telur Balado,Tidak ada,"Tahu, tempe, dan telur",Tidak,Rebus atau kukus,27
+569,Tahu Teriyaki,Tidak ada,"Tahu, tempe, dan telur",Tidak,Rebus atau kukus,27
+570,Pepes Telur Asin,Tidak ada,"Tahu, tempe, dan telur",Tidak,Rebus atau kukus,27
+571,Chawanmushi,Tidak ada,"Tahu, tempe, dan telur",Tidak,Rebus atau kukus,27
+572,Mun Tahu,Tidak ada,"Tahu, tempe, dan telur",Tidak,Rebus atau kukus,27
+573,Telur Bumbu Bali,Tidak ada,"Tahu, tempe, dan telur",Tidak,Rebus atau kukus,27
+574,Pepes Tahu,Tidak ada,"Tahu, tempe, dan telur",Tidak,Rebus atau kukus,27
+575,Sate Telur Puyuh,Tidak ada,"Tahu, tempe, dan telur",Tidak,Rebus atau kukus,27
+576,Telur Pindang,Tidak ada,"Tahu, tempe, dan telur",Tidak,Rebus atau kukus,27
+577,Semur Telur,Tidak ada,"Tahu, tempe, dan telur",Tidak,Rebus atau kukus,27
+578,Semur Telur Puyuh,Tidak ada,"Tahu, tempe, dan telur",Tidak,Rebus atau kukus,27
+579,Sambal Tumpang,Tidak ada,"Tahu, tempe, dan telur",Tidak,Rebus atau kukus,27
+580,Telur Puyuh Balado,Tidak ada,"Tahu, tempe, dan telur",Tidak,Rebus atau kukus,27
+581,Semur Tahu,Tidak ada,"Tahu, tempe, dan telur",Tidak,Rebus atau kukus,27
+582,Butterscotch Pudding,Tidak ada,"Tahu, tempe, dan telur",Tidak,Rebus atau kukus,27
+583,Puding Lumut,Tidak ada,"Tahu, tempe, dan telur",Tidak,Rebus atau kukus,27
+584,Puding Telor Ceplok,Tidak ada,"Tahu, tempe, dan telur",Tidak,Rebus atau kukus,27
+585,Keripik Tempe,Tidak ada,"Tahu, tempe, dan telur",Tidak,Goreng atau tumis,25
+586,Keripik Tahu,Tidak ada,"Tahu, tempe, dan telur",Tidak,Goreng atau tumis,25
+587,Bola Bola Tahu,Tidak ada,"Tahu, tempe, dan telur",Tidak,Goreng atau tumis,25
+588,Sambal Tempe,Tidak ada,"Tahu, tempe, dan telur",Tidak,Goreng atau tumis,25
+589,Tahu Cabe Garam,Tidak ada,"Tahu, tempe, dan telur",Tidak,Goreng atau tumis,25
+590,Tahu Petis,Tidak ada,"Tahu, tempe, dan telur",Tidak,Goreng atau tumis,25
+591,Telur Petis,Tidak ada,"Tahu, tempe, dan telur",Tidak,Goreng atau tumis,25
+592,Omelet Telur,Tidak ada,"Tahu, tempe, dan telur",Tidak,Goreng atau tumis,25
+593,Egg Roll Korea,Tidak ada,"Tahu, tempe, dan telur",Tidak,Goreng atau tumis,25
+594,Tahu Bulat,Tidak ada,"Tahu, tempe, dan telur",Tidak,Goreng atau tumis,25
+595,Telur Kecap,Tidak ada,"Tahu, tempe, dan telur",Tidak,Goreng atau tumis,25
+596,Tempe Penyet,Tidak ada,"Tahu, tempe, dan telur",Tidak,Goreng atau tumis,25
+597,Tahu Fantasi,Tidak ada,"Tahu, tempe, dan telur",Tidak,Goreng atau tumis,25
+598,Sayur Tempe Tahu Cabe Hijau,Tidak ada,"Tahu, tempe, dan telur",Tidak,Goreng atau tumis,25
+599,Oseng Tempe Cabe Ijo,Tidak ada,"Tahu, tempe, dan telur",Tidak,Goreng atau tumis,25
+600,Oseng Tahu Tempe Kecap,Tidak ada,"Tahu, tempe, dan telur",Tidak,Goreng atau tumis,25
+601,Tahu Tauco,Tidak ada,"Tahu, tempe, dan telur",Tidak,Goreng atau tumis,25
+602,Tempe Mendol,Tidak ada,"Tahu, tempe, dan telur",Tidak,Goreng atau tumis,25
+603,Kering Kentang Tempe Pedas,Tidak ada,"Tahu, tempe, dan telur",Tidak,Goreng atau tumis,25
+604,Kering Tempe (Orek Tempe),Tidak ada,"Tahu, tempe, dan telur",Tidak,Goreng atau tumis,25
+605,Sambal Tahu Goreng,Tidak ada,"Tahu, tempe, dan telur",Tidak,Goreng atau tumis,25
+606,Okonomiyaki,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Ya,Goreng atau tumis,109
+607,Tahu Isi,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Ya,Goreng atau tumis,109
+608,Bakwan Tahu,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Ya,Goreng atau tumis,109
+609,Sandwich Homemade,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Ya,Goreng atau tumis,109
+610,Jalangkote,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Ya,Goreng atau tumis,109
+611,Risoles Ragout Sayur,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Ya,Goreng atau tumis,109
+612,Sayur Tahu Kuah Kuning,Tidak ada,"Tahu, tempe, dan telur",Ya,Rebus atau kukus,31
+613,Tahu Kukus,Tidak ada,"Tahu, tempe, dan telur",Ya,Rebus atau kukus,31
+614,Ketoprak,Tidak ada,"Tahu, tempe, dan telur",Ya,Rebus atau kukus,31
+615,Miso Soup,Tidak ada,"Tahu, tempe, dan telur",Ya,Rebus atau kukus,31
+616,Sup Tahu,Tidak ada,"Tahu, tempe, dan telur",Ya,Rebus atau kukus,31
+617,Nasi Telur Pontianak,Beras dan olahannya,"Tahu, tempe, dan telur",Tidak,Goreng atau tumis,65
+618,Nasi Goreng Telur,Beras dan olahannya,"Tahu, tempe, dan telur",Tidak,Goreng atau tumis,65
+619,Nasi Goreng Kampung,Beras dan olahannya,"Tahu, tempe, dan telur",Tidak,Goreng atau tumis,65
+620,Papeda Gulung,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Goreng atau tumis,105
+621,Telur Geprek,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Goreng atau tumis,105
+622,Tahu Walik,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Goreng atau tumis,105
+623,Omelet Mie,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Goreng atau tumis,105
+624,Perkedel Tahu,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Goreng atau tumis,105
+625,Tempe Mendoan Purwokerto,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Goreng atau tumis,105
+626,Tahu Rambutan,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Goreng atau tumis,105
+627,Perkedel Tempe,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Goreng atau tumis,105
+628,Tahu Putih Goreng Garing,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Goreng atau tumis,105
+629,Tahu Aci Tegal,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Goreng atau tumis,105
+630,Nugget Tahu,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Goreng atau tumis,105
+631,Martabak Mie,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Goreng atau tumis,105
+632,Papeda Cilung,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Goreng atau tumis,105
+633,Donat Mie,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Goreng atau tumis,105
+634,Donat Crispy,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Goreng atau tumis,105
+635,Pizza Goreng Lipat,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Goreng atau tumis,105
+636,Bomboloni,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Goreng atau tumis,105
+637,Odading / Bolang Baling / Kue Bantal,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Goreng atau tumis,105
+638,Stik Keju Mozarella,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Goreng atau tumis,105
+639,Donat Ubi Ungu,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Goreng atau tumis,105
+640,Donat Pisang,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Goreng atau tumis,105
+641,Kue Akar Kelapa,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Goreng atau tumis,105
+642,Nugget Pisang,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Goreng atau tumis,105
+643,Kue Tambang,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Goreng atau tumis,105
+644,Churros,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Goreng atau tumis,105
+645,Kuping Gajah,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Goreng atau tumis,105
+646,Kue Telur Gabus,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Goreng atau tumis,105
+647,Donat Jadul,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Goreng atau tumis,105
+648,Bitterballen,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Goreng atau tumis,105
+649,Kue Garpu,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Goreng atau tumis,105
+650,Kue Tusuk Gigi,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Goreng atau tumis,105
+651,Bihun Gulung,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Goreng atau tumis,105
+652,Kacang Telur,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Goreng atau tumis,105
+653,Gandasturi,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Goreng atau tumis,105
+654,Martabak Mesir,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Goreng atau tumis,105
+655,Biji Ketapang,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Goreng atau tumis,105
+656,Cheese Stick (Stik Keju),"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Goreng atau tumis,105
+657,Onde-Onde Ketawa,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Goreng atau tumis,105
+658,Risoles Mayo,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Goreng atau tumis,105
+659,Lumpia Semarang,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Goreng atau tumis,105
+660,Makaroni Telur (Maklor),"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Goreng atau tumis,105
+661,Martabak Telur,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Goreng atau tumis,105
+662,Pisang Molen,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Goreng atau tumis,105
+663,Rempeyek Teri,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Goreng atau tumis,105
+664,Pempek Dos (Tanpa Ikan),"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Rebus atau kukus,107
+665,Tahu Bakso,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Rebus atau kukus,107
+666,Laksa Bogor,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Rebus atau kukus,107
+667,Bubur Kacang Hijau Madura,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Rebus atau kukus,107
+668,Dessert Box Coklat,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Rebus atau kukus,107
+669,Bolu Kukus Ubi,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Rebus atau kukus,107
+670,Rainbow Cake Kukus,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Rebus atau kukus,107
+671,Pretzel,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Rebus atau kukus,107
+672,Tokyo Banana,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Rebus atau kukus,107
+673,Kue Talam Labu Kuning,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Rebus atau kukus,107
+674,Kue Talam Jagung,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Rebus atau kukus,107
+675,Bolu Kukus Pelangi,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Rebus atau kukus,107
+676,Kue Ku,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Rebus atau kukus,107
+677,Cheese Cake Kukus (Tanpa Oven),"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Rebus atau kukus,107
+678,Putu Ayu,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Rebus atau kukus,107
+679,Kue Ketan Hitam Kukus,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Rebus atau kukus,107
+680,Brownies Kukus Lumer ala Amanda,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Rebus atau kukus,107
+681,Bolu Kukus Gula Merah,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Rebus atau kukus,107
+682,Bolu Kukus Pandan,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Rebus atau kukus,107
+683,Kue Lumpur Surga,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Rebus atau kukus,107
+684,Brudel Keju Kukus,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Rebus atau kukus,107
+685,Kue Tart Ulang Tahun,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Rebus atau kukus,107
+686,Kue Sakura (Bolu),"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Rebus atau kukus,107
+687,Kembang Tahu Wedang (Tahok),"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Rebus atau kukus,107
+688,Orak Arik Telur Sayuran,Tidak ada,"Tahu, tempe, dan telur",Ya,Goreng atau tumis,29
+689,Tahu Jeletot,Tidak ada,"Tahu, tempe, dan telur",Ya,Goreng atau tumis,29
+690,Fuyunghai,Tidak ada,"Tahu, tempe, dan telur",Ya,Goreng atau tumis,29
+691,Martabak Tahu,Tidak ada,"Tahu, tempe, dan telur",Ya,Goreng atau tumis,29
+692,Telur Dadar Padang,Tidak ada,"Tahu, tempe, dan telur",Ya,Goreng atau tumis,29
+693,Tumis Buncis Tempe,Tidak ada,"Tahu, tempe, dan telur",Ya,Goreng atau tumis,29
+694,Oseng Pare Telur,Tidak ada,"Tahu, tempe, dan telur",Ya,Goreng atau tumis,29
+695,Tumis Telur Tauge,Tidak ada,"Tahu, tempe, dan telur",Ya,Goreng atau tumis,29
+696,Oseng Tempe Toge,Tidak ada,"Tahu, tempe, dan telur",Ya,Goreng atau tumis,29
+697,Oseng Tempe Pare,Tidak ada,"Tahu, tempe, dan telur",Ya,Goreng atau tumis,29
+698,Tempe Balado,Tidak ada,"Tahu, tempe, dan telur",Ya,Goreng atau tumis,29
+699,Tahu Tek Surabaya,Lainnya,"Tahu, tempe, dan telur",Ya,Lainnya,148
+700,Sapo Tahu,Tidak ada,"Tahu, tempe, dan telur",Ya,Lainnya,28
+701,Tahu Telur,Tidak ada,"Tahu, tempe, dan telur",Ya,Lainnya,28
+702,Pecel Madiun,Tidak ada,"Tahu, tempe, dan telur",Ya,Lainnya,28
+703,Ratatouille,Tidak ada,"Tahu, tempe, dan telur",Ya,Lainnya,28
+704,Tahu Gejrot,Tidak ada,"Tahu, tempe, dan telur",Tidak,Lainnya,24
+705,Bacem Tahu Tempe,Tidak ada,"Tahu, tempe, dan telur",Tidak,Lainnya,24
+706,Tahu Sarang Burung,Tidak ada,"Tahu, tempe, dan telur",Tidak,Lainnya,24
+707,Rendang Telur,Tidak ada,"Tahu, tempe, dan telur",Tidak,Lainnya,24
+708,Tahu Bubuk,Tidak ada,"Tahu, tempe, dan telur",Tidak,Lainnya,24
+709,Sambal Oncom,Tidak ada,"Tahu, tempe, dan telur",Tidak,Lainnya,24
+710,Kacang Sembunyi,Tidak ada,"Tahu, tempe, dan telur",Tidak,Lainnya,24
+711,Tahu Guling,Beras dan olahannya,"Tahu, tempe, dan telur",Ya,Lainnya,68
+712,Lontong Tahu Khas Blora,Beras dan olahannya,"Tahu, tempe, dan telur",Ya,Lainnya,68
+713,Gado Gado Padang,Beras dan olahannya,"Tahu, tempe, dan telur",Ya,Lainnya,68
+714,Nasi Lengko,Beras dan olahannya,"Tahu, tempe, dan telur",Ya,Lainnya,68
+715,Lontong Balap,Beras dan olahannya,"Tahu, tempe, dan telur",Ya,Lainnya,68
+716,Tahu Gimbal Udang,Tidak ada,Lainnya,Ya,Lainnya,36
+717,Buntil Daun Pepaya,Tidak ada,Lainnya,Ya,Lainnya,36
+718,Sambal Pencok Kacang Panjang,Tidak ada,Lainnya,Ya,Lainnya,36
+719,Salad Sayur,Tidak ada,Tidak ada,Ya,Lainnya,4
+720,Coleslaw,Tidak ada,Tidak ada,Ya,Lainnya,4
+721,Asinan Betawi,Tidak ada,Tidak ada,Ya,Lainnya,4
+722,Beberuk Terong,Tidak ada,Tidak ada,Ya,Lainnya,4
+723,Kimchi,Tidak ada,Tidak ada,Ya,Lainnya,4
+724,Acar Timun,Tidak ada,Tidak ada,Ya,Lainnya,4
+725,Karedok,Tidak ada,Tidak ada,Ya,Lainnya,4
+726,Pecel Terong,Tidak ada,Tidak ada,Ya,Lainnya,4
+727,Trancam,Tidak ada,Tidak ada,Ya,Lainnya,4
+728,Sambal Kemangi,Tidak ada,Tidak ada,Ya,Lainnya,4
+729,Sambal Cibiuk,Tidak ada,Tidak ada,Ya,Lainnya,4
+730,Sambal Goang,Tidak ada,Tidak ada,Ya,Lainnya,4
+731,Nasi Tim Sayuran,Beras dan olahannya,Ayam dan daging,Ya,Lainnya,52
+732,Tumis Lobak Putih,Lainnya,Lainnya,Ya,Goreng atau tumis,157
+733,Tumis Rebung,Tidak ada,Tidak ada,Ya,Goreng atau tumis,5
+734,Terong Goreng,Tidak ada,Tidak ada,Ya,Goreng atau tumis,5
+735,Terong Balado,Tidak ada,Tidak ada,Ya,Goreng atau tumis,5
+736,Tumis Pakis,Tidak ada,Tidak ada,Ya,Goreng atau tumis,5
+737,Tumis Brokoli Kembang Kol,Tidak ada,Tidak ada,Ya,Goreng atau tumis,5
+738,Tumis Cuciwis Saus Tiram,Tidak ada,Tidak ada,Ya,Goreng atau tumis,5
+739,Sayur Pepaya Muda,Tidak ada,Tidak ada,Ya,Goreng atau tumis,5
+740,Oseng Labu Siam,Tidak ada,Tidak ada,Ya,Goreng atau tumis,5
+741,Sayur Rebung Santan,Tidak ada,Tidak ada,Ya,Goreng atau tumis,5
+742,Tumis Genjer,Tidak ada,Tidak ada,Ya,Goreng atau tumis,5
+743,Kangkung Saus Tiram,Tidak ada,Tidak ada,Ya,Goreng atau tumis,5
+744,Tumis Pakcoy,Tidak ada,Tidak ada,Ya,Goreng atau tumis,5
+745,Tumis Bunga Pepaya,Tidak ada,Tidak ada,Ya,Goreng atau tumis,5
+746,Kangkung Belacan,Tidak ada,Tidak ada,Ya,Goreng atau tumis,5
+747,Tumis Jantung Pisang,Tidak ada,Tidak ada,Ya,Goreng atau tumis,5
+748,Tumis Pare,Tidak ada,Tidak ada,Ya,Goreng atau tumis,5
+749,Tumis Bokcoy,Tidak ada,Tidak ada,Ya,Goreng atau tumis,5
+750,Tumis Labu Siam,Tidak ada,Tidak ada,Ya,Goreng atau tumis,5
+751,Tumis Baby Kailan,Tidak ada,Tidak ada,Ya,Goreng atau tumis,5
+752,Tumis Kacang Panjang,Tidak ada,Tidak ada,Ya,Goreng atau tumis,5
+753,Tumis Sawi Putih,Tidak ada,Tidak ada,Ya,Goreng atau tumis,5
+754,Tumis Tauge,Tidak ada,Tidak ada,Ya,Goreng atau tumis,5
+755,Tumis Kangkung,Tidak ada,Tidak ada,Ya,Goreng atau tumis,5
+756,Sambal Terong,Tidak ada,Tidak ada,Ya,Goreng atau tumis,5
+757,Sambal Pete,Tidak ada,Tidak ada,Ya,Goreng atau tumis,5
+758,Rendang Jamur,Tidak ada,Lainnya,Tidak,Lainnya,32
+759,Rujak Es Krim,Tidak ada,Lainnya,Tidak,Lainnya,32
+760,Sambal Belut,Tidak ada,Lainnya,Tidak,Lainnya,32
+761,Sambal Pecel,Tidak ada,Lainnya,Tidak,Lainnya,32
+762,Sambal Petis,Tidak ada,Lainnya,Tidak,Lainnya,32
+763,Sambal Kecap,Tidak ada,Lainnya,Tidak,Lainnya,32
+764,Sandwich Buah,Tidak ada,Lainnya,Tidak,Lainnya,32
+765,Cream Cheese,Tidak ada,Lainnya,Tidak,Lainnya,32
+766,Keju Mozarella,Tidak ada,Lainnya,Tidak,Lainnya,32
+767,Sayur Asem Jawa Timur,Tidak ada,Tidak ada,Ya,Rebus atau kukus,7
+768,Sayur Bening Sawi,Tidak ada,Tidak ada,Ya,Rebus atau kukus,7
+769,Sayur Asem Jakarta,Tidak ada,Tidak ada,Ya,Rebus atau kukus,7
+770,Gulai Pakis,Tidak ada,Tidak ada,Ya,Rebus atau kukus,7
+771,Semur Terong,Tidak ada,Tidak ada,Ya,Rebus atau kukus,7
+772,Urap Bali,Tidak ada,Tidak ada,Ya,Rebus atau kukus,7
+773,Urap Sayur,Tidak ada,Tidak ada,Ya,Rebus atau kukus,7
+774,Plecing Kangkung,Tidak ada,Tidak ada,Ya,Rebus atau kukus,7
+775,Sayur Nangka Kapau,Tidak ada,Tidak ada,Ya,Rebus atau kukus,7
+776,Sayur Lodeh,Tidak ada,Tidak ada,Ya,Rebus atau kukus,7
+777,Lodeh Terong Santan,Tidak ada,Tidak ada,Ya,Rebus atau kukus,7
+778,Sayur Asem Jawa Tengah,Tidak ada,Tidak ada,Ya,Rebus atau kukus,7
+779,Sayur Bobor Bayam,Tidak ada,Tidak ada,Ya,Rebus atau kukus,7
+780,Pecel Sayur,Tidak ada,Tidak ada,Ya,Rebus atau kukus,7
+781,Sayur Asem Sunda,Tidak ada,Tidak ada,Ya,Rebus atau kukus,7
+782,Sayur Oyong Bening Soun,Tidak ada,Tidak ada,Ya,Rebus atau kukus,7
+783,Sayur Bayam Bening,Tidak ada,Tidak ada,Ya,Rebus atau kukus,7
+784,Gulai Daun Singkong,Tidak ada,Tidak ada,Ya,Rebus atau kukus,7
+785,Sayur Katuk Kuah Santan,Tidak ada,Tidak ada,Ya,Rebus atau kukus,7
+786,Ote Ote,"Tepung, Mie, dan Pasta",Tidak ada,Ya,Goreng atau tumis,85
+787,Bakwan Dadar Jagung,"Tepung, Mie, dan Pasta",Tidak ada,Ya,Goreng atau tumis,85
+788,Bakwan Sayur (Bala Bala),"Tepung, Mie, dan Pasta",Tidak ada,Ya,Goreng atau tumis,85
+789,Kue Gabin Ragout,"Tepung, Mie, dan Pasta",Tidak ada,Ya,Goreng atau tumis,85
+790,Lumpia Sayur Goreng,"Tepung, Mie, dan Pasta",Tidak ada,Ya,Goreng atau tumis,85
+791,Keripik Bayam,"Tepung, Mie, dan Pasta",Tidak ada,Ya,Goreng atau tumis,85
+792,Lontong Sayur Betawi,Beras dan olahannya,Tidak ada,Ya,Lainnya,44
+793,Lontong Medan,Beras dan olahannya,Tidak ada,Ya,Lainnya,44
+794,Brambang Asem,Lainnya,Tidak ada,Ya,Goreng atau tumis,125
+795,Toge Goreng Bogor,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Ya,Lainnya,108
+796,Rolade Tahu Daun Singkong,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Ya,Lainnya,108
+797,Kangkung Tauco,Tidak ada,Lainnya,Ya,Goreng atau tumis,37
+798,Tumis Jamur,Tidak ada,Lainnya,Ya,Goreng atau tumis,37
+799,Tumis Capcay,Tidak ada,Lainnya,Ya,Goreng atau tumis,37
+800,Tumis Oncom Leunca (Ulukutek Leunca),Tidak ada,Lainnya,Ya,Goreng atau tumis,37
+801,Onion Rings,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Goreng atau tumis,81
+802,Mie Lidi Goreng,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Goreng atau tumis,81
+803,Bakwan Mie,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Goreng atau tumis,81
+804,Kue Cincin,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Goreng atau tumis,81
+805,Kue Keciput,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Goreng atau tumis,81
+806,Onde-Onde Isi Kacang Hijau,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Goreng atau tumis,81
+807,Getas,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Goreng atau tumis,81
+808,Kue Cucur Gula Merah,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Goreng atau tumis,81
+809,Roti Goreng Isi Cokelat,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Goreng atau tumis,81
+810,Banana Roll,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Goreng atau tumis,81
+811,Kacang Atom (Sukro) Homemade,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Goreng atau tumis,81
+812,Pisang Goreng Madu,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Goreng atau tumis,81
+813,Rempeyek Kacang Tanah,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Goreng atau tumis,81
+814,Kacang Disco,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Goreng atau tumis,81
+815,Kulit Pangsit,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Goreng atau tumis,81
+816,Corndog,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Goreng atau tumis,81
+817,Kembang Goyang,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Goreng atau tumis,81
+818,Keripik Bawang,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Goreng atau tumis,81
+819,Keripik Pisang,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Goreng atau tumis,81
+820,Cireng Isi,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Goreng atau tumis,81
+821,Pisang Goreng Kipas,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Goreng atau tumis,81
+822,Cakwe,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Goreng atau tumis,81
+823,Pisang Coklat Lumer (Piscok),"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Goreng atau tumis,81
+824,Cimol,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Goreng atau tumis,81
+825,Gemblong Ketan Hitam,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Goreng atau tumis,81
+826,Gemblong Ketan Putih,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Goreng atau tumis,81
+827,Nanas Goreng,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Goreng atau tumis,81
+828,Gudeg Asli Jogja Komplit (Gudeg Kering),Tidak ada,Ayam dan daging,Ya,Lainnya,12
+829,Mashed Potato,Lainnya,Tidak ada,Tidak,Rebus atau kukus,123
+830,Sop Ubi,Lainnya,Tidak ada,Tidak,Rebus atau kukus,123
+831,Sawut Singkong Gunung,Lainnya,Tidak ada,Tidak,Rebus atau kukus,123
+832,Pisang Rai,Lainnya,Tidak ada,Tidak,Rebus atau kukus,123
+833,Singkong Thailand,Lainnya,Tidak ada,Tidak,Rebus atau kukus,123
+834,Getuk Lindri,Lainnya,Tidak ada,Tidak,Rebus atau kukus,123
+835,Lemet Singkong,Lainnya,Tidak ada,Tidak,Rebus atau kukus,123
+836,Lepet Jagung,Lainnya,Tidak ada,Tidak,Rebus atau kukus,123
+837,Kue Talam Singkong Gula Merah,Lainnya,Tidak ada,Tidak,Rebus atau kukus,123
+838,Getuk Pisang,Lainnya,Tidak ada,Tidak,Rebus atau kukus,123
+839,Candil Ubi Ungu,Lainnya,Tidak ada,Tidak,Rebus atau kukus,123
+840,Sekoteng,Lainnya,Tidak ada,Tidak,Rebus atau kukus,123
+841,Biji Salak,Lainnya,Tidak ada,Tidak,Rebus atau kukus,123
+842,Bubur Kacang Hijau,Lainnya,Tidak ada,Tidak,Rebus atau kukus,123
+843,Setup Pisang,Lainnya,Tidak ada,Tidak,Rebus atau kukus,123
+844,Kolak Labu,Lainnya,Tidak ada,Tidak,Rebus atau kukus,123
+845,Perkedel Kentang,Lainnya,Tidak ada,Tidak,Goreng atau tumis,121
+846,Kentang Goreng (French Fries & Potato Wedges),Lainnya,Tidak ada,Tidak,Goreng atau tumis,121
+847,Long Potato,Lainnya,Tidak ada,Tidak,Goreng atau tumis,121
+848,Bola Bola Ubi,Lainnya,Tidak ada,Tidak,Goreng atau tumis,121
+849,Klepon Ubi Ungu,Lainnya,Tidak ada,Tidak,Goreng atau tumis,121
+850,Gabin Tape,Lainnya,Tidak ada,Tidak,Goreng atau tumis,121
+851,Misro,Lainnya,Tidak ada,Tidak,Goreng atau tumis,121
+852,Tela Tela Singkong,Lainnya,Tidak ada,Tidak,Goreng atau tumis,121
+853,Ubi Goreng,Lainnya,Tidak ada,Tidak,Goreng atau tumis,121
+854,Pisang Gulung,Lainnya,Tidak ada,Tidak,Goreng atau tumis,121
+855,Timus Singkong,Lainnya,Tidak ada,Tidak,Goreng atau tumis,121
+856,Rondo Royal (Tape Goreng),Lainnya,Tidak ada,Tidak,Goreng atau tumis,121
+857,Kacang Bawang,Lainnya,Tidak ada,Tidak,Goreng atau tumis,121
+858,Getuk Goreng,Lainnya,Tidak ada,Tidak,Goreng atau tumis,121
+859,Keripik Singkong,Lainnya,Tidak ada,Tidak,Goreng atau tumis,121
+860,Kentang Mustofa,Lainnya,Tidak ada,Tidak,Goreng atau tumis,121
+861,Keripik Singkong Balado,Lainnya,Tidak ada,Tidak,Goreng atau tumis,121
+862,Pepes Jamur,Tidak ada,Lainnya,Ya,Rebus atau kukus,39
+863,Sup Matahari,Tidak ada,Lainnya,Ya,Rebus atau kukus,39
+864,Sundubu Jjigae,Tidak ada,Lainnya,Ya,Rebus atau kukus,39
+865,Sop Sayur,Tidak ada,Lainnya,Ya,Rebus atau kukus,39
+866,Sup Jamur Kancing,Tidak ada,Lainnya,Ya,Rebus atau kukus,39
+867,Sup Jagung,Tidak ada,Lainnya,Ya,Rebus atau kukus,39
+868,Bakwan Udang,"Tepung, Mie, dan Pasta",Ikan dan Seafood,Ya,Goreng atau tumis,101
+869,Mie Goreng Seafood,"Tepung, Mie, dan Pasta",Ikan dan Seafood,Ya,Goreng atau tumis,101
+870,Japchae,"Tepung, Mie, dan Pasta",Ikan dan Seafood,Ya,Goreng atau tumis,101
+871,Salad Buah (Fruit),Tidak ada,Tidak ada,Tidak,Lainnya,0
+872,Sambal Soto,Tidak ada,Tidak ada,Tidak,Lainnya,0
+873,Sambal Nanas,Tidak ada,Tidak ada,Tidak,Lainnya,0
+874,Sambal Pecak,Tidak ada,Tidak ada,Tidak,Lainnya,0
+875,Sambal Embe,Tidak ada,Tidak ada,Tidak,Lainnya,0
+876,Sambal Dabu Dabu,Tidak ada,Tidak ada,Tidak,Lainnya,0
+877,Sambal Bajak,Tidak ada,Tidak ada,Tidak,Lainnya,0
+878,Sambal Lalapan,Tidak ada,Tidak ada,Tidak,Lainnya,0
+879,Sambal Kencur,Tidak ada,Tidak ada,Tidak,Lainnya,0
+880,Sambal Matah Kecombrang,Tidak ada,Tidak ada,Tidak,Lainnya,0
+881,Sambal Korek,Tidak ada,Tidak ada,Tidak,Lainnya,0
+882,Sambal Bawang,Tidak ada,Tidak ada,Tidak,Lainnya,0
+883,Sambal Ijo,Tidak ada,Tidak ada,Tidak,Lainnya,0
+884,Sambal Mangga Muda (Pencit),Tidak ada,Tidak ada,Tidak,Lainnya,0
+885,Selai Srikaya,Tidak ada,Tidak ada,Tidak,Lainnya,0
+886,Selai Stroberi,Tidak ada,Tidak ada,Tidak,Lainnya,0
+887,Rujak Mangga Muda,Tidak ada,Tidak ada,Tidak,Lainnya,0
+888,Rujak Serut,Tidak ada,Tidak ada,Tidak,Lainnya,0
+889,Sorbet Buah,Tidak ada,Tidak ada,Tidak,Lainnya,0
+890,Guacamole,Tidak ada,Tidak ada,Tidak,Lainnya,0
+891,Asinan Rambutan,Tidak ada,Tidak ada,Tidak,Lainnya,0
+892,Asinan Buah,Tidak ada,Tidak ada,Tidak,Lainnya,0
+893,Sop Buah,Tidak ada,Tidak ada,Tidak,Lainnya,0
+894,Gado Gado Betawi,Lainnya,"Tahu, tempe, dan telur",Ya,Rebus atau kukus,151
+895,Burgo,"Tepung, Mie, dan Pasta",Lainnya,Tidak,Lainnya,112
+896,Mie Tek Tek Kuah,"Tepung, Mie, dan Pasta",Lainnya,Tidak,Lainnya,112
+897,Mie Goreng Basah,"Tepung, Mie, dan Pasta",Lainnya,Tidak,Lainnya,112
+898,Mie Goreng Nyemek,"Tepung, Mie, dan Pasta",Lainnya,Tidak,Lainnya,112
+899,Bread Pudding (Puding Roti Tawar),"Tepung, Mie, dan Pasta",Lainnya,Tidak,Lainnya,112
+900,Burger Bun,"Tepung, Mie, dan Pasta",Lainnya,Tidak,Lainnya,112
+901,Roti Ubi Korea,"Tepung, Mie, dan Pasta",Lainnya,Tidak,Lainnya,112
+902,Setup Roti Tawar,"Tepung, Mie, dan Pasta",Lainnya,Tidak,Lainnya,112
+903,Terong Bakar,Tidak ada,Tidak ada,Ya,Panggang atau bakar,6
+904,Sambal Tomat,Tidak ada,Tidak ada,Tidak,Goreng atau tumis,1
+905,Balado Kentang,Tidak ada,Tidak ada,Tidak,Goreng atau tumis,1
+906,Spaghetti Brulee,"Tepung, Mie, dan Pasta",Ayam dan daging,Tidak,Lainnya,88
+907,Risotto,"Tepung, Mie, dan Pasta",Ayam dan daging,Tidak,Lainnya,88
+908,Spaghetti Rendang,"Tepung, Mie, dan Pasta",Ayam dan daging,Tidak,Lainnya,88
+909,Mie Setan,"Tepung, Mie, dan Pasta",Ayam dan daging,Tidak,Lainnya,88
+910,Mie Ongklok,"Tepung, Mie, dan Pasta",Ayam dan daging,Tidak,Lainnya,88
+911,Spaghetti Carbonara,"Tepung, Mie, dan Pasta",Ayam dan daging,Tidak,Lainnya,88
+912,Spaghetti Bolognese Meatballs (Bola-bola Daging),"Tepung, Mie, dan Pasta",Ayam dan daging,Tidak,Lainnya,88
+913,Fettucini Carbonara,"Tepung, Mie, dan Pasta",Ayam dan daging,Tidak,Lainnya,88
+914,Mie Kocok Bandung,"Tepung, Mie, dan Pasta",Ayam dan daging,Tidak,Lainnya,88
+915,Spaghetti Aglio Olio,"Tepung, Mie, dan Pasta",Ayam dan daging,Tidak,Lainnya,88
+916,Soto Daging Sapi Madura,"Tepung, Mie, dan Pasta",Ayam dan daging,Tidak,Lainnya,88
+917,Roti Jala Kari Daging,"Tepung, Mie, dan Pasta",Ayam dan daging,Tidak,Lainnya,88
+918,Lumpia Basah,"Tepung, Mie, dan Pasta",Ayam dan daging,Tidak,Lainnya,88
+919,Nasi Daun Jeruk,Beras dan olahannya,Lainnya,Ya,Rebus atau kukus,79
+920,Bakmoy,Beras dan olahannya,Lainnya,Ya,Rebus atau kukus,79
+921,Indomie Seblak,"Tepung, Mie, dan Pasta",Lainnya,Tidak,Rebus atau kukus,115
+922,Mie Sagu Kuah,"Tepung, Mie, dan Pasta",Lainnya,Tidak,Rebus atau kukus,115
+923,Mie Kuah Susu,"Tepung, Mie, dan Pasta",Lainnya,Tidak,Rebus atau kukus,115
+924,Mie Godog Jawa (Mie Rebus Jawa),"Tepung, Mie, dan Pasta",Lainnya,Tidak,Rebus atau kukus,115
+925,Makaroni Keju Kukus,"Tepung, Mie, dan Pasta",Lainnya,Tidak,Rebus atau kukus,115
+926,Sup Makaroni,"Tepung, Mie, dan Pasta",Lainnya,Tidak,Rebus atau kukus,115
+927,Jasuke,"Tepung, Mie, dan Pasta",Lainnya,Tidak,Rebus atau kukus,115
+928,Es Lilin Nutrijel Pelangi,"Tepung, Mie, dan Pasta",Lainnya,Tidak,Rebus atau kukus,115
+929,Pudot (Puding Sedot),"Tepung, Mie, dan Pasta",Lainnya,Tidak,Rebus atau kukus,115
+930,Puding Mangga,"Tepung, Mie, dan Pasta",Lainnya,Tidak,Rebus atau kukus,115
+931,Kimbab,Beras dan olahannya,Lainnya,Ya,Lainnya,76
+932,Nasi Gemuk,Beras dan olahannya,Lainnya,Ya,Lainnya,76
+933,Nasi Padang,Beras dan olahannya,Lainnya,Ya,Lainnya,76
+934,Nasi Rames,Beras dan olahannya,Lainnya,Ya,Lainnya,76
+935,Nasi Campur Bali,Beras dan olahannya,Lainnya,Ya,Lainnya,76
+936,Nasi Ulam,Beras dan olahannya,Lainnya,Ya,Lainnya,76
+937,Nasi Godog Khas Magelang,Beras dan olahannya,Lainnya,Ya,Lainnya,76
+938,Nasi Tempong,Beras dan olahannya,Lainnya,Ya,Lainnya,76
+939,Nasi Megono,Beras dan olahannya,Lainnya,Ya,Lainnya,76
+940,Bibimbap,Beras dan olahannya,Lainnya,Ya,Lainnya,76
+941,Nasi Kuning Komplit,Beras dan olahannya,Lainnya,Ya,Lainnya,76
+942,Nasi Mandhi,Beras dan olahannya,Lainnya,Tidak,Rebus atau kukus,75
+943,Kue Lapet,Beras dan olahannya,Lainnya,Tidak,Rebus atau kukus,75
+944,Ketan Susu,Beras dan olahannya,Lainnya,Tidak,Rebus atau kukus,75
+945,Puding Tape Ketan,Beras dan olahannya,Lainnya,Tidak,Rebus atau kukus,75
+946,Ketupat,Beras dan olahannya,Tidak ada,Tidak,Rebus atau kukus,43
+947,Nasi Tiwul,Beras dan olahannya,Tidak ada,Tidak,Rebus atau kukus,43
+948,Ketan Serundeng,Beras dan olahannya,Tidak ada,Tidak,Rebus atau kukus,43
+949,Wajik Ketan,Beras dan olahannya,Tidak ada,Tidak,Rebus atau kukus,43
+950,Madu Mongso,Beras dan olahannya,Tidak ada,Tidak,Rebus atau kukus,43
+951,Tape Ketan,Beras dan olahannya,Tidak ada,Tidak,Rebus atau kukus,43
+952,Bubur Ketan Hitam,Beras dan olahannya,Tidak ada,Tidak,Rebus atau kukus,43
+953,Jenang Gempol,Beras dan olahannya,Tidak ada,Tidak,Rebus atau kukus,43
+954,Ketan Durian,Beras dan olahannya,Tidak ada,Tidak,Rebus atau kukus,43
+955,Rengginang,Beras dan olahannya,Tidak ada,Tidak,Rebus atau kukus,43
+956,Kolak Durian,Beras dan olahannya,Tidak ada,Tidak,Rebus atau kukus,43
+957,Mango Sticky Rice,Beras dan olahannya,Tidak ada,Tidak,Rebus atau kukus,43
+958,Nasi Ayam Semarang,Beras dan olahannya,Ayam dan daging,Tidak,Rebus atau kukus,51
+959,Bubur Korea (Dakjuk),Beras dan olahannya,Ayam dan daging,Tidak,Rebus atau kukus,51
+960,Arem-Arem,Beras dan olahannya,Ayam dan daging,Tidak,Rebus atau kukus,51
+961,Nasi Goreng Nanas Khas Thailand,Beras dan olahannya,Lainnya,Tidak,Goreng atau tumis,73
+962,Nasi Goreng Shirataki,Beras dan olahannya,Lainnya,Tidak,Goreng atau tumis,73
+963,Nasi Goreng Tek Tek (Abang Kaki Lima),Beras dan olahannya,Lainnya,Tidak,Goreng atau tumis,73
+964,Nasi Goreng Magelangan,Beras dan olahannya,Lainnya,Tidak,Goreng atau tumis,73
+965,Nasi Goreng Merah,Beras dan olahannya,Lainnya,Tidak,Goreng atau tumis,73
+966,Nasi Goreng Gila,Beras dan olahannya,Lainnya,Tidak,Goreng atau tumis,73
+967,Nasi Goreng Oriental,Beras dan olahannya,Lainnya,Tidak,Goreng atau tumis,73
+968,Nasi Goreng Aceh,Beras dan olahannya,Lainnya,Tidak,Goreng atau tumis,73
+969,Nasi Goreng Terasi (Belacan),Beras dan olahannya,Lainnya,Tidak,Goreng atau tumis,73
+970,Nasi Goreng Pete,Beras dan olahannya,Lainnya,Tidak,Goreng atau tumis,73
+971,Nasi Goreng Kuning Kunyit,Beras dan olahannya,Lainnya,Tidak,Goreng atau tumis,73
+972,Nasi Goreng Padang,Beras dan olahannya,Lainnya,Tidak,Goreng atau tumis,73
+973,Nasi Goreng Jawa,Beras dan olahannya,Lainnya,Tidak,Goreng atau tumis,73
+974,Macaroni Cheese (Mac n cheese),"Tepung, Mie, dan Pasta",Lainnya,Tidak,Panggang atau bakar,114
+975,Sate Kribo,"Tepung, Mie, dan Pasta",Lainnya,Tidak,Panggang atau bakar,114
+976,Pastel Tutup Klasik,"Tepung, Mie, dan Pasta",Lainnya,Tidak,Panggang atau bakar,114
+977,Pizza Mozzarella Jamur,"Tepung, Mie, dan Pasta",Lainnya,Tidak,Panggang atau bakar,114
+978,Cornflake Cookies,"Tepung, Mie, dan Pasta",Lainnya,Tidak,Panggang atau bakar,114
+979,Mie Tarempa,"Tepung, Mie, dan Pasta",Ikan dan Seafood,Tidak,Lainnya,96
+980,Spaghetti Seafood Marinara,"Tepung, Mie, dan Pasta",Ikan dan Seafood,Tidak,Lainnya,96
+981,Nasi Telur Korea,Beras dan olahannya,"Tahu, tempe, dan telur",Tidak,Lainnya,64
+982,Nasi Tutug Oncom,Beras dan olahannya,"Tahu, tempe, dan telur",Tidak,Lainnya,64
+983,Nasi Bakar Ikan Tongkol,Beras dan olahannya,Ikan dan Seafood,Tidak,Panggang atau bakar,58
+984,Nasi Bakar Cumi (Sambalado Cumi),Beras dan olahannya,Ikan dan Seafood,Tidak,Panggang atau bakar,58
+985,Nasi Bakar Teri (Sambel Teri Cabai Hijau),Beras dan olahannya,Ikan dan Seafood,Tidak,Panggang atau bakar,58
+986,Nasi Bakar Bandung Sunda,Beras dan olahannya,Lainnya,Tidak,Panggang atau bakar,74
+987,Baked Rice (Nasi Panggang),Beras dan olahannya,Lainnya,Tidak,Panggang atau bakar,74
+988,Cireng Nasi,Beras dan olahannya,Tidak ada,Tidak,Goreng atau tumis,41
+989,Kerupuk Nasi,Beras dan olahannya,Tidak ada,Tidak,Goreng atau tumis,41
+990,Mie Ayam Jamur,"Tepung, Mie, dan Pasta",Lainnya,Ya,Lainnya,116
+991,Kwetiau Siram,"Tepung, Mie, dan Pasta",Lainnya,Ya,Lainnya,116
+992,Mie Titi,"Tepung, Mie, dan Pasta",Lainnya,Ya,Lainnya,116
+993,Mie Sayur Hijau Bayam,"Tepung, Mie, dan Pasta",Lainnya,Ya,Lainnya,116
+994,Nasi Goreng Rendang,Beras dan olahannya,Ayam dan daging,Tidak,Goreng atau tumis,49
+995,Nasi Goreng Sapi,Beras dan olahannya,Ayam dan daging,Tidak,Goreng atau tumis,49
+996,Nasi Goreng Kambing,Beras dan olahannya,Ayam dan daging,Tidak,Goreng atau tumis,49
+997,Nasi Goreng Kikil Cabe Hijau,Beras dan olahannya,Ayam dan daging,Tidak,Goreng atau tumis,49
+998,Mie Celor,Beras dan olahannya,Ikan dan Seafood,Tidak,Rebus atau kukus,59
+999,Macaroni Schotel,"Tepung, Mie, dan Pasta",Ayam dan daging,Tidak,Panggang atau bakar,90
+1000,Lasagna Panggang,"Tepung, Mie, dan Pasta",Ayam dan daging,Tidak,Panggang atau bakar,90
+1001,Bakso Bakar Sapi,"Tepung, Mie, dan Pasta",Ayam dan daging,Tidak,Panggang atau bakar,90
+1002,Bakso Bakar Pedas Manis,"Tepung, Mie, dan Pasta",Ayam dan daging,Tidak,Panggang atau bakar,90
+1003,Pizza Sosis Ayam,"Tepung, Mie, dan Pasta",Ayam dan daging,Tidak,Panggang atau bakar,90
+1004,Nasi Liwet Sunda Teri,Beras dan olahannya,Ikan dan Seafood,Tidak,Lainnya,56
+1005,Onigiri,Beras dan olahannya,Ikan dan Seafood,Tidak,Lainnya,56
+1006,Tinutuan,Beras dan olahannya,Tidak ada,Ya,Rebus atau kukus,47
+1007,Bubur Manado,Beras dan olahannya,Tidak ada,Ya,Rebus atau kukus,47
+1008,Bubur (Jenang) Jagung,Lainnya,Lainnya,Tidak,Lainnya,152
+1009,Sop Kimlo,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Ya,Rebus atau kukus,111
+1010,Crepes Teflon,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1011,Kue Baruasa,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1012,Kue Janda Genit,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1013,Martabak Manis Mini,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1014,Bolu Chocolatos,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1015,Brownies Chocolatos,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1016,Bolu Susu Lembang,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1017,Kue Lontar Papua,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1018,Croffle,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1019,Kue Moho,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1020,Hotteok,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1021,Peanut Butter Cookies,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1022,Bolu Susu,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1023,Bolu Meranti Keju,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1024,Kue Lapis Pepe Pandan,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1025,Lapis India Khas Banjar,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1026,Nastar Gulung,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1027,Kue Beng Beng,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1028,Marshmallow Cookies,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1029,Baguette,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1030,Banoffee Pie,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1031,Kue Lapis Legit,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1032,Bolu Mentega,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1033,Kue Ogura Pandan,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1034,Lekker Holland,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1035,Kue Balok,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1036,Kue Bagea Sagu,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1037,Dessert Oreo Box,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1038,Apple Strudel,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1039,Killer Soft Bread,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1040,Butter Cookies,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1041,Swiss Roll,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1042,Bolu Kismis,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1043,Cake Kurma,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1044,Fruit Cake,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1045,Roti Unyil,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1046,Lemon Cake,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1047,Cheese Tart,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1048,Red Velvet,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1049,Kue Semprit Jadul,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1050,Bolu Ketan Hitam,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1051,Japanese Cheese Cake,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1052,Roti Bluder,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1053,Kue Kering Coklat,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1054,Lidah Kucing,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1055,Bolu Zebra,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1056,Bolu Minyak,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1057,Kastengel Keju,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1058,Muffin Pisang,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1059,Ogura Cake Zebra,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1060,Dorayaki Isi Coklat,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1061,Martabak Bangka Manis,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1062,Croissant,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1063,Milk Bath Cake (Tres Leches),"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1064,Strudel Keju,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1065,Bolu Gulung Coklat,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1066,Pie Susu,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1067,Kue Lumpur Kentang,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1068,Roti Tawar,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1069,Cinnamon Roll,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1070,Muffin Coklat,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1071,Cake Pisang (Banana Bread),"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1072,Bolu Gulung Pandan Keju,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1073,Kue Kering Nastar,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1074,Bika Ambon,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1075,Bolu Koja,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1076,Sagu Keju,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1077,Kue Sus Isi Vla,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1078,Kue Bolu Sarang Semut (Caramel Cake),"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1079,Roti Manis,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1080,Chocolate Lava Cake,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1081,Kue Putri Salju,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1082,Choco Chip Cookies (Kukis),"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1083,Klapertart Klasik,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1084,Pisang Bolen Keju,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1085,Pie Vla Buah Mini (Fruit Tartlet),"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1086,Bolu Marmer,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1087,Brownies Panggang Klasik,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1088,Roti Sobek,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1089,Black Forest,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1090,Kue Bangkit,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1091,Roti Kasur,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1092,Sponge Cake Lemon,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1093,Chiffon Cake Pandan,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1094,Roti Pisang,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1095,Egg Tart Portuguese,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1096,Waffle,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1097,Roti Boy O (Mocha Bun),"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1098,Pancake Pisang,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1099,Kue Lapis Surabaya (Spikoe),"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1100,Chocolate Mousse Cake,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1101,Almond Crispy,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1102,Apple Pie,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1103,Bolu Panggang Coklat,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1104,Kue Cubit,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1105,Sus Buah,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1106,Bolu Pisang,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1107,Martabak Manis Cokelat Kacang,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1108,Kue Nastar Keju,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1109,Pukis Keju,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Panggang atau bakar,106
+1110,Gingerbread (Kue Jahe),Tidak ada,"Tahu, tempe, dan telur",Tidak,Panggang atau bakar,26
+1111,Meringue Cookies,Tidak ada,"Tahu, tempe, dan telur",Tidak,Panggang atau bakar,26
+1112,Pancake Teflon,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Lainnya,104
+1113,Kue Jongkong,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Lainnya,104
+1114,Egg Benedict,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Lainnya,104
+1115,Apem Selong,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Lainnya,104
+1116,Roti Maryam,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Lainnya,104
+1117,Crepes Pisang Coklat Keju,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Lainnya,104
+1118,Bingka Pisang,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Lainnya,104
+1119,Bingka Barandam,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Lainnya,104
+1120,French Toast,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Lainnya,104
+1121,Lempeng Pisang,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Lainnya,104
+1122,Cupcake Coklat dan Lemon,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Lainnya,104
+1123,Cilor,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Lainnya,104
+1124,Serabi Bandung Oncom,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Lainnya,104
+1125,Poffertjes,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Lainnya,104
+1126,Kue Leker,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Lainnya,104
+1127,Kue Lumpur Labu Kuning,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Lainnya,104
+1128,Mille Crepes,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Lainnya,104
+1129,Martabak Manis Keju Susu,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Lainnya,104
+1130,Kue Cubit Green Tea,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Lainnya,104
+1131,Kue Pukis Coklat (Pancong),"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Lainnya,104
+1132,Dadar Gulung Isi Kelapa,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Lainnya,104
+1133,Lumpia Rebung,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Lainnya,104
+1134,Terang Bulan,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Lainnya,104
+1135,Martabak Bandung,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Tidak,Lainnya,104
+1136,Kue Dange,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Rebus atau kukus,83
+1137,Apem Kukus Gula Merah,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Rebus atau kukus,83
+1138,Putri Mandi,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Rebus atau kukus,83
+1139,Kue Talam Pisang,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Rebus atau kukus,83
+1140,Kue Bugis,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Rebus atau kukus,83
+1141,Ongol Ongol,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Rebus atau kukus,83
+1142,Kue Lapis Hunkwe,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Rebus atau kukus,83
+1143,Nagasari,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Rebus atau kukus,83
+1144,Putu Mayang,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Rebus atau kukus,83
+1145,Kue Talam Ebi,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Rebus atau kukus,83
+1146,Awug-Awug,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Rebus atau kukus,83
+1147,Kue Lapis Beras,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Rebus atau kukus,83
+1148,Puding Jagung,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Rebus atau kukus,83
+1149,Cente Manis,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Rebus atau kukus,83
+1150,Kue Talam Tepung Beras Pandan,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Rebus atau kukus,83
+1151,Kue Mochi,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Rebus atau kukus,83
+1152,Bolu Kukus Pisang,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Rebus atau kukus,83
+1153,Kue Talam,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Rebus atau kukus,83
+1154,Choi Pan,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Rebus atau kukus,83
+1155,Kue Mendut,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Rebus atau kukus,83
+1156,Cilok,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Rebus atau kukus,83
+1157,Kue Mangkok,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Rebus atau kukus,83
+1158,Cenil,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Rebus atau kukus,83
+1159,Bubur Sumsum,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Rebus atau kukus,83
+1160,Bubur Mutiara,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Rebus atau kukus,83
+1161,Bubur Candil,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Rebus atau kukus,83
+1162,Amparan Tatak,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Rebus atau kukus,83
+1163,Kue Putu Bambu,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Rebus atau kukus,83
+1164,Tteokbokki,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Rebus atau kukus,83
+1165,Bakpao,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Rebus atau kukus,83
+1166,Bubur Kampiun,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Rebus atau kukus,83
+1167,Puding Santan (Gula Merah),"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Rebus atau kukus,83
+1168,Manisan Kolang Kaling,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Rebus atau kukus,83
+1169,Popcorn Caramel,Lainnya,Tidak ada,Tidak,Lainnya,120
+1170,Tiramisu,Lainnya,Tidak ada,Tidak,Lainnya,120
+1171,Bola Bola Coklat (Truffle),Lainnya,Tidak ada,Tidak,Lainnya,120
+1172,Overnight Oat,Lainnya,Tidak ada,Tidak,Lainnya,120
+1173,Pizza Dough,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Panggang atau bakar,82
+1174,Pizza Mini,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Panggang atau bakar,82
+1175,Pia Pia,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Panggang atau bakar,82
+1176,Puff Pastry,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Panggang atau bakar,82
+1177,Kue Sagon,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Panggang atau bakar,82
+1178,Apem Panggang,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Panggang atau bakar,82
+1179,Wingko Babat,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Panggang atau bakar,82
+1180,Kue Kacang,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Panggang atau bakar,82
+1181,Roti Bakar Keju Coklat,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Panggang atau bakar,82
+1182,Kue Pancong Betawi,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Panggang atau bakar,82
+1183,Pisang Goreng Pontianak,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Panggang atau bakar,82
+1184,Bakpia Teflon Khas Yogyakarta,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Panggang atau bakar,82
+1185,Pizza Tuna,"Tepung, Mie, dan Pasta",Ikan dan Seafood,Ya,Panggang atau bakar,102
+1186,Pizza Seafood,"Tepung, Mie, dan Pasta",Ikan dan Seafood,Ya,Panggang atau bakar,102
+1187,Korean Garlic Bread,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Ya,Panggang atau bakar,110
+1188,Carrot Cake,"Tepung, Mie, dan Pasta","Tahu, tempe, dan telur",Ya,Panggang atau bakar,110
+1189,Donat Singkong,Lainnya,"Tahu, tempe, dan telur",Tidak,Goreng atau tumis,145
+1190,Donat Kentang,Lainnya,"Tahu, tempe, dan telur",Tidak,Goreng atau tumis,145
+1191,Combro,Lainnya,"Tahu, tempe, dan telur",Tidak,Goreng atau tumis,145
+1192,Telur Gulung,Lainnya,"Tahu, tempe, dan telur",Tidak,Goreng atau tumis,145
+1193,Perkedel Bondon,Lainnya,"Tahu, tempe, dan telur",Tidak,Goreng atau tumis,145
+1194,Bagel,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Lainnya,80
+1195,Pop Cake,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Lainnya,80
+1196,Kue Rangi,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Lainnya,80
+1197,Coklat Praline Kurma Kacang Mete,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Lainnya,80
+1198,Rujak Cireng,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Lainnya,80
+1199,Rujak Buah,"Tepung, Mie, dan Pasta",Tidak ada,Tidak,Lainnya,80
+1200,Ketan Sarikaya,Beras dan olahannya,"Tahu, tempe, dan telur",Tidak,Rebus atau kukus,67
+1201,Wedang Angsle,Beras dan olahannya,"Tahu, tempe, dan telur",Tidak,Rebus atau kukus,67
+1202,Lupis,Beras dan olahannya,"Tahu, tempe, dan telur",Tidak,Rebus atau kukus,67
+1203,Semar Mendem,Beras dan olahannya,"Tahu, tempe, dan telur",Tidak,Rebus atau kukus,67
+1204,Pizza Hut Teflon,"Tepung, Mie, dan Pasta",Tidak ada,Ya,Panggang atau bakar,86
+1205,Puding Zebra,Lainnya,"Tahu, tempe, dan telur",Tidak,Rebus atau kukus,147
+1206,Puding Brownies,Lainnya,"Tahu, tempe, dan telur",Tidak,Rebus atau kukus,147
+1207,Cucuru Bayao,Lainnya,"Tahu, tempe, dan telur",Tidak,Rebus atau kukus,147
+1208,Barongko,Lainnya,"Tahu, tempe, dan telur",Tidak,Rebus atau kukus,147
+1209,Carang Gesing,Lainnya,"Tahu, tempe, dan telur",Tidak,Rebus atau kukus,147
+1210,Kroket Kentang Isi Ayam Wortel,Lainnya,Ayam dan daging,Ya,Goreng atau tumis,133
+1211,Prol Tape,Lainnya,"Tahu, tempe, dan telur",Tidak,Panggang atau bakar,146
+1212,Bolu Tape,Lainnya,"Tahu, tempe, dan telur",Tidak,Panggang atau bakar,146
+1213,Macaroon Vanilla Oreo,Lainnya,"Tahu, tempe, dan telur",Tidak,Panggang atau bakar,146
+1214,Cloud Bread,Lainnya,"Tahu, tempe, dan telur",Tidak,Panggang atau bakar,146
+1215,Kue Khamir (Kamir),Lainnya,"Tahu, tempe, dan telur",Tidak,Lainnya,144
+1216,Bingka Kentang,Lainnya,"Tahu, tempe, dan telur",Tidak,Lainnya,144
+1217,Lemang Tapai,Beras dan olahannya,Tidak ada,Tidak,Lainnya,40
+1218,Pisang Epe,Lainnya,Tidak ada,Tidak,Panggang atau bakar,122
+1219,Pisang Bakar Penyet,Lainnya,Tidak ada,Tidak,Panggang atau bakar,122
+1220,Colenak,Lainnya,Tidak ada,Tidak,Panggang atau bakar,122
+1221,Sale Pisang,Lainnya,Tidak ada,Tidak,Panggang atau bakar,122
+1222,Rujak Cuka,Lainnya,Tidak ada,Ya,Lainnya,124
+1223,Singkong Keju,Lainnya,Lainnya,Tidak,Goreng atau tumis,153
+1224,Puding Ombre Ubi Ungu,Lainnya,Lainnya,Tidak,Rebus atau kukus,155
+1225,Manisan Mangga,Tidak ada,Tidak ada,Tidak,Rebus atau kukus,3
+1226,Sarabba,Tidak ada,Tidak ada,Tidak,Rebus atau kukus,3
+1227,Lotek,"Tepung, Mie, dan Pasta",Tidak ada,Ya,Lainnya,84
